@@ -7,17 +7,190 @@
 a {
   text-decoration: none;
   color: #000;
+  display: block;
+  cursor: pointer;
+}
+ul {
+  list-style: none;
 }
 html {
   direction: rtl;
   font-size: 16px;
-  font-family: VazirSemiBold;
+  font-family: VazirMedium;
 }
-
 
 //FUNCTION
 
-
-
+@mixin shadowBox($lenghtA, $lenghtB, $lenghtC, $lenghtD) {
+  box-shadow: $lenghtA $lenghtB $lenghtC $lenghtD
+    rgba($color: #000000, $alpha: 0.1);
+}
+@mixin dropDownStyle {
+  position: absolute;
+  background: white;
+  width: max-content;
+  position: absolute;
+  top: 0;
+  right: 0;
+  border-radius: 10px;
+  padding: 10px 0;
+  border-bottom: 2.5px solid #096bfd;
+  border-top: 5px solid #fd0909;
+}
 
 //STYLE
+
+.container {
+  // width: 1400px;
+  margin: 30px auto;
+}
+header {
+  nav {
+    padding: 0 120px;
+    display: flex;
+    justify-content: space-between;
+    .menu {
+      display: flex;
+      align-items: center;
+      a:hover {
+        opacity: 0.5;
+        color: blueviolet;
+      }
+      li {
+        padding: 5px 10px;
+      }
+      .menu-item {
+        position: relative;
+      }
+      .drop-down-menu {
+        margin: 30px 0;
+        @include dropDownStyle();
+        @include shadowBox(0, 0, 10px, 0);
+        li {
+          margin: 5px 0;
+        }
+      }
+      .drop-down-menu-of-menu {
+        margin: 0 115px 0 0;
+        @include dropDownStyle();
+        @include shadowBox(0, 0, 10px, 0);
+      }
+
+
+    }
+  }
+  .hamburger-menu {
+    padding: 25px;
+    width: 100%;
+    background: white;
+    right: 0;
+    top: 0;
+    position: fixed;
+    z-index: 100;
+    transform: translateY(-100%);
+  }
+  .cross-icon {
+    width: 100%;
+    text-align: left;
+    padding: 20px 0;
+  }
+}
+.show-hamburger-menu {
+  animation: fadeInDown 0.25s forwards;
+}
+
+.hide-hamburger-menu {
+  animation: fadeOut 0.25s forwards;
+}
+.product-menu,
+.product-menu-of-menu,
+.sepahan-plus-magazine-menu,
+.about-us-menu,
+.contact-us-menu,
+.technology-menu,
+.hamburger-icon {
+  display: none;
+}
+
+//ANIMATION
+@keyframes showUp {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInDown {
+  0% {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeOut {
+  0% {
+      opacity: 1;
+      transform: translateY(0);
+  }
+
+  100% {
+      opacity: 0;
+      transform: translateY(-100);
+  }
+}
+
+//RESPONSIVE
+
+@media (max-width: 1200px) {
+  header {
+    nav {
+      padding: 0 10px;
+    }
+  }
+}
+
+@media (max-width: 992px) {
+  header {
+    nav {
+      .menu {
+        a {
+          font-size: 14px;
+        }
+      }
+    }
+  }
+}
+
+@media (max-width: 824px) {
+  header {
+    nav {
+      padding: 0 50px;
+      ul:nth-child(odd) {
+        display: none;
+      }
+      .hamburger-icon {
+        display: flex;
+        align-items: center;
+      }
+    }
+  }
+}
+
+@media (max-width: 768px) {
+}
+
+@media (max-width: 632px) {
+}
+@media (max-width: 550px) {
+}
+
+@media (max-width: 375px) {
+}
