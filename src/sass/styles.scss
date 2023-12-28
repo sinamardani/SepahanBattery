@@ -43,7 +43,9 @@ html {
 .container {
   // width: 1400px;
   margin: 30px auto;
+  margin-bottom: 0;
 }
+
 header {
   nav {
     padding: 0 120px;
@@ -61,6 +63,7 @@ header {
       }
       .menu-item {
         position: relative;
+        z-index: 10000 !important;
       }
       .drop-down-menu {
         margin: 30px 0;
@@ -75,8 +78,6 @@ header {
         @include dropDownStyle();
         @include shadowBox(0, 0, 10px, 0);
       }
-
-
     }
   }
   .hamburger-menu {
@@ -95,6 +96,7 @@ header {
     padding: 20px 0;
   }
 }
+
 .show-hamburger-menu {
   animation: fadeInDown 0.25s forwards;
 }
@@ -112,6 +114,137 @@ header {
   display: none;
 }
 
+//MAIN STYLE
+main {
+}
+//END MAIN STYLE
+.about-sepahan-battery {
+  text-align: center;
+  margin: 100px auto;
+
+  h2 {
+    margin: 0 0 20px 0;
+  }
+  img {
+    margin: 0 0 20px 0;
+  }
+  p {
+    text-align: justify;
+    padding: 0 300px;
+  }
+}
+.chart-image {
+  text-align: center;
+  margin: 100px auto;
+
+  // .image{
+  //   height: max-content;
+  //   width: 100%;
+  //   background-image: url(../img/TeamImage_Horizontal.jpg);
+  // }
+  .img_vertical {
+    display: none;
+  }
+}
+
+.sepahan-battery-brands {
+  text-align: center;
+  margin: 100px auto;
+  .brands {
+    margin: 50px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    div {
+      padding: 0 20px;
+    }
+  }
+  .vl {
+    border-left: 1px solid black;
+    height: 250px;
+    margin: 0 100px;
+  }
+  img {
+    width: 130px;
+    padding: 10px;
+    cursor: pointer;
+  }
+  img:hover {
+    opacity: 0.5;
+  }
+  // .right-brands,
+  // .left-brands {
+  //   display: flex;
+  //   width: 100%;
+
+  //   div {
+  //     margin: 0 10px;
+  //     padding: 20px;
+  //     border: 1px #000;
+  //   }
+
+  //   img:hover {
+  //     opacity: 0.5;
+  //   }
+  // }
+  // .right-brands {
+  //   justify-content: left;
+  // }
+}
+
+footer {
+  display: flex;
+  justify-content: space-between;
+  background: rgb(170, 170, 170);
+  padding: 50px 0;
+  box-shadow: 0 0 14px 0px inset rgba($color: #000000, $alpha: 0.2);
+
+  i {
+    font-size: 35px;
+  }
+  .about-us-bottom {
+    display: flex;
+    justify-content: center;
+    padding: 20px;
+    i {
+      color: #d1575f;
+    }
+    :hover {
+      opacity: 0.5;
+    }
+    div {
+      margin: 0 2px;
+    }
+  }
+  .about-us-top {
+    text-align: center;
+  }
+  .footer-one,
+  .footer-two,
+  .footer-three,
+  .footer-four,
+  .footer-five {
+    width: 300px;
+  }
+  h3 {
+    margin: 0 0 15px 0;
+  }
+  .span-block {
+    display: block;
+  }
+  .span-bold {
+    font-weight: 900;
+  }
+}
+
+.quote {
+  font-weight: 900;
+  color: rgb(74, 25, 25);
+  font-size: 20px;
+  padding: 50px 0;
+  background: rgb(156, 156, 156);
+  text-align: center;
+}
 //ANIMATION
 @keyframes showUp {
   0% {
@@ -137,13 +270,13 @@ header {
 
 @keyframes fadeOut {
   0% {
-      opacity: 1;
-      transform: translateY(0);
+    opacity: 1;
+    transform: translateY(0);
   }
 
   100% {
-      opacity: 0;
-      transform: translateY(-100);
+    opacity: 0;
+    transform: translateY(-100);
   }
 }
 
@@ -153,6 +286,22 @@ header {
   header {
     nav {
       padding: 0 10px;
+    }
+  }
+
+  .about-sepahan-battery {
+    p {
+      text-align: justify;
+      padding: 0 230px;
+    }
+  }
+  footer {
+    .footer-one,
+    .footer-two,
+    .footer-three,
+    .footer-four,
+    .footer-five {
+      text-align: center;
     }
   }
 }
@@ -165,6 +314,56 @@ header {
           font-size: 14px;
         }
       }
+    }
+  }
+  .about-sepahan-battery {
+    text-align: right;
+    h2 {
+      text-align: center;
+    }
+    div {
+      text-align: center;
+      img {
+        width: 50px;
+      }
+    }
+    p {
+      text-align: justify;
+      padding: 0 150px;
+    }
+  }
+
+  .img_horizontal {
+    display: none;
+  }
+  .img_vertical {
+    margin: 0 auto;
+    width: fit-content;
+    display: block !important;
+  }
+
+  .sepahan-battery-brands {
+    .brands {
+      flex-direction: column;
+    }
+    .vl {
+      height: 0;
+      border-bottom: 1px black solid;
+      margin: 50px 0;
+      width: 300px;
+    }
+  }
+
+  footer {
+    flex-direction: column;
+    align-items: center;
+    .footer-one,
+    .footer-two,
+    .footer-three,
+    .footer-four,
+    .footer-five {
+      text-align: center;
+      margin: 25px 0;
     }
   }
 }
@@ -185,6 +384,12 @@ header {
 }
 
 @media (max-width: 768px) {
+  .about-sepahan-battery {
+    p {
+      text-align: justify;
+      padding: 0 30px;
+    }
+  }
 }
 
 @media (max-width: 632px) {
