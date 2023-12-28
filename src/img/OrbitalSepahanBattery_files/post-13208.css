@@ -1,0 +1,24 @@
+.elementor-kit-13208{--e-global-color-primary:#4054B2;--e-global-color-secondary:#54595F;--e-global-color-text:#7A7A7A;--e-global-color-accent:#024DA1;--e-global-color-93e6f8f:#FFFFFF;--e-global-typography-primary-font-family:"IranSans(FaNum)_Light";--e-global-typography-primary-font-weight:600;--e-global-typography-secondary-font-family:"IranSans(FaNum)_Medium";--e-global-typography-secondary-font-weight:400;--e-global-typography-text-font-family:"IRANSansWeb_FaNum_Light";--e-global-typography-text-font-weight:400;--e-global-typography-accent-font-family:"IRANSans(FaNum)_Bold";--e-global-typography-accent-font-weight:500;--e-global-typography-10b0bb5-font-family:"IRANSansWeb_Light";--e-global-typography-ac8237d-font-family:"IRANSansWeb_FaNum_Light";font-family:"iransans", Sans-serif;}.elementor-kit-13208 a{color:#4054B2;font-family:"iransans", Sans-serif;}.elementor-kit-13208 a:hover{font-family:"iransans", Sans-serif;}.elementor-kit-13208 h1{font-family:"iransans", Sans-serif;}.elementor-kit-13208 h2{color:var( --e-global-color-secondary );font-family:"iransans", Sans-serif;font-size:35px;font-weight:700;}.elementor-kit-13208 h3{font-family:"iransans", Sans-serif;}.elementor-kit-13208 h4{font-family:"iransans", Sans-serif;}.elementor-kit-13208 h5{font-family:"iransans", Sans-serif;}.elementor-kit-13208 h6{font-family:"iransans", Sans-serif;}.elementor-kit-13208 button,.elementor-kit-13208 input[type="button"],.elementor-kit-13208 input[type="submit"],.elementor-kit-13208 .elementor-button{font-family:"iransans", Sans-serif;color:#FFFFFF;background-color:#024DA1;border-style:solid;border-color:#FFFFFF;}.elementor-kit-13208 button:hover,.elementor-kit-13208 button:focus,.elementor-kit-13208 input[type="button"]:hover,.elementor-kit-13208 input[type="button"]:focus,.elementor-kit-13208 input[type="submit"]:hover,.elementor-kit-13208 input[type="submit"]:focus,.elementor-kit-13208 .elementor-button:hover,.elementor-kit-13208 .elementor-button:focus{color:#4054B2;background-color:#FFFFFF;border-style:solid;border-width:2px 2px 2px 2px;border-color:#4054B2;}.elementor-section.elementor-section-boxed > .elementor-container{max-width:1140px;}.e-con{--container-max-width:1140px;}.elementor-widget:not(:last-child){margin-block-end:20px;}.elementor-element{--widgets-spacing:20px 20px;}{}h1.entry-title{display:var(--page-title-display);}.elementor-kit-13208 e-page-transition{background-color:#FFBC7D;}@media(max-width:1024px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:1024px;}.e-con{--container-max-width:1024px;}}@media(max-width:767px){.elementor-section.elementor-section-boxed > .elementor-container{max-width:767px;}.e-con{--container-max-width:767px;}}/* Start Custom Fonts CSS */@font-face {
+	font-family: 'IranSans(FaNum)_Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.sepahanbattery.com/wp-content/uploads/2022/08/IRANSansFaNum_Light.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'IRANSansWeb_FaNum_Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.sepahanbattery.com/wp-content/uploads/2022/09/IRANSansWeb_FaNum_Light.woff2') format('woff2');
+}
+/* End Custom Fonts CSS */
+/* Start Custom Fonts CSS */@font-face {
+	font-family: 'IRANSansWeb_Light';
+	font-style: normal;
+	font-weight: normal;
+	font-display: auto;
+	src: url('https://www.sepahanbattery.com/wp-content/uploads/2022/08/IRANSansWeb_Light.ttf') format('truetype');
+}
+/* End Custom Fonts CSS */

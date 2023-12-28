@@ -1,0 +1,1288 @@
+<!DOCTYPE html>
+<!-- saved from url=(0154)https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/ -->
+<html dir="rtl" lang="fa-IR" class="vp-lazyload-enabled"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script>if(navigator.userAgent.match(/MSIE|Internet Explorer/i)||navigator.userAgent.match(/Trident\/7\..*?rv:11/i)){var href=document.location.href;if(!href.match(/[?&]nowprocket/)){if(href.indexOf("?")==-1){if(href.indexOf("#")==-1){document.location.href=href+"?nowprocket=1"}else{document.location.href=href.replace("#","?nowprocket=1#")}}else{if(href.indexOf("#")==-1){document.location.href=href+"&nowprocket=1"}else{document.location.href=href.replace("#","&nowprocket=1#")}}}}</script><script>class RocketLazyLoadScripts{constructor(){this.v="1.2.4",this.triggerEvents=["keydown","mousedown","mousemove","touchmove","touchstart","touchend","wheel"],this.userEventHandler=this._triggerListener.bind(this),this.touchStartHandler=this._onTouchStart.bind(this),this.touchMoveHandler=this._onTouchMove.bind(this),this.touchEndHandler=this._onTouchEnd.bind(this),this.clickHandler=this._onClick.bind(this),this.interceptedClicks=[],window.addEventListener("pageshow",t=>{this.persisted=t.persisted}),window.addEventListener("DOMContentLoaded",()=>{this._preconnect3rdParties()}),this.delayedScripts={normal:[],async:[],defer:[]},this.trash=[],this.allJQueries=[]}_addUserInteractionListener(t){if(document.hidden){t._triggerListener();return}this.triggerEvents.forEach(e=>window.addEventListener(e,t.userEventHandler,{passive:!0})),window.addEventListener("touchstart",t.touchStartHandler,{passive:!0}),window.addEventListener("mousedown",t.touchStartHandler),document.addEventListener("visibilitychange",t.userEventHandler)}_removeUserInteractionListener(){this.triggerEvents.forEach(t=>window.removeEventListener(t,this.userEventHandler,{passive:!0})),document.removeEventListener("visibilitychange",this.userEventHandler)}_onTouchStart(t){"HTML"!==t.target.tagName&&(window.addEventListener("touchend",this.touchEndHandler),window.addEventListener("mouseup",this.touchEndHandler),window.addEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.addEventListener("mousemove",this.touchMoveHandler),t.target.addEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"onclick","rocket-onclick"),this._pendingClickStarted())}_onTouchMove(t){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler),t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this._pendingClickFinished()}_onTouchEnd(){window.removeEventListener("touchend",this.touchEndHandler),window.removeEventListener("mouseup",this.touchEndHandler),window.removeEventListener("touchmove",this.touchMoveHandler,{passive:!0}),window.removeEventListener("mousemove",this.touchMoveHandler)}_onClick(t){t.target.removeEventListener("click",this.clickHandler),this._renameDOMAttribute(t.target,"rocket-onclick","onclick"),this.interceptedClicks.push(t),t.preventDefault(),t.stopPropagation(),t.stopImmediatePropagation(),this._pendingClickFinished()}_replayClicks(){window.removeEventListener("touchstart",this.touchStartHandler,{passive:!0}),window.removeEventListener("mousedown",this.touchStartHandler),this.interceptedClicks.forEach(t=>{t.target.dispatchEvent(new MouseEvent("click",{view:t.view,bubbles:!0,cancelable:!0}))})}_waitForPendingClicks(){return new Promise(t=>{this._isClickPending?this._pendingClickFinished=t:t()})}_pendingClickStarted(){this._isClickPending=!0}_pendingClickFinished(){this._isClickPending=!1}_renameDOMAttribute(t,e,r){t.hasAttribute&&t.hasAttribute(e)&&(event.target.setAttribute(r,event.target.getAttribute(e)),event.target.removeAttribute(e))}_triggerListener(){this._removeUserInteractionListener(this),"loading"===document.readyState?document.addEventListener("DOMContentLoaded",this._loadEverythingNow.bind(this)):this._loadEverythingNow()}_preconnect3rdParties(){let t=[];document.querySelectorAll("script[type=rocketlazyloadscript][data-rocket-src]").forEach(e=>{let r=e.getAttribute("data-rocket-src");if(r&&0!==r.indexOf("data:")){0===r.indexOf("//")&&(r=location.protocol+r);try{let i=new URL(r).origin;i!==location.origin&&t.push({src:i,crossOrigin:e.crossOrigin||"module"===e.getAttribute("data-rocket-type")})}catch(n){}}}),t=[...new Map(t.map(t=>[JSON.stringify(t),t])).values()],this._batchInjectResourceHints(t,"preconnect")}async _loadEverythingNow(){this.lastBreath=Date.now(),this._delayEventListeners(),this._delayJQueryReady(this),this._handleDocumentWrite(),this._registerAllDelayedScripts(),this._preloadAllScripts(),await this._loadScriptsFromList(this.delayedScripts.normal),await this._loadScriptsFromList(this.delayedScripts.defer),await this._loadScriptsFromList(this.delayedScripts.async);try{await this._triggerDOMContentLoaded(),await this._pendingWebpackRequests(this),await this._triggerWindowLoad()}catch(t){console.error(t)}window.dispatchEvent(new Event("rocket-allScriptsLoaded")),this._waitForPendingClicks().then(()=>{this._replayClicks()}),this._emptyTrash()}_registerAllDelayedScripts(){document.querySelectorAll("script[type=rocketlazyloadscript]").forEach(t=>{t.hasAttribute("data-rocket-src")?t.hasAttribute("async")&&!1!==t.async?this.delayedScripts.async.push(t):t.hasAttribute("defer")&&!1!==t.defer||"module"===t.getAttribute("data-rocket-type")?this.delayedScripts.defer.push(t):this.delayedScripts.normal.push(t):this.delayedScripts.normal.push(t)})}async _transformScript(t){if(await this._littleBreath(),!0===t.noModule&&"noModule"in HTMLScriptElement.prototype){t.setAttribute("data-rocket-status","skipped");return}return new Promise(navigator.userAgent.indexOf("Firefox/")>0||""===navigator.vendor?e=>{let r=document.createElement("script");[...t.attributes].forEach(t=>{let e=t.nodeName;"type"!==e&&("data-rocket-type"===e&&(e="type"),"data-rocket-src"===e&&(e="src"),r.setAttribute(e,t.nodeValue))}),t.text&&(r.text=t.text),r.hasAttribute("src")?(r.addEventListener("load",e),r.addEventListener("error",e)):(r.text=t.text,e());try{t.parentNode.replaceChild(r,t)}catch(i){e()}}:e=>{function r(){t.setAttribute("data-rocket-status","failed"),e()}try{let i=t.getAttribute("data-rocket-type"),n=t.getAttribute("data-rocket-src");i?(t.type=i,t.removeAttribute("data-rocket-type")):t.removeAttribute("type"),t.addEventListener("load",function r(){t.setAttribute("data-rocket-status","executed"),e()}),t.addEventListener("error",r),n?(t.removeAttribute("data-rocket-src"),t.src=n):t.src="data:text/javascript;base64,"+window.btoa(unescape(encodeURIComponent(t.text)))}catch(s){r()}})}async _loadScriptsFromList(t){let e=t.shift();return e&&e.isConnected?(await this._transformScript(e),this._loadScriptsFromList(t)):Promise.resolve()}_preloadAllScripts(){this._batchInjectResourceHints([...this.delayedScripts.normal,...this.delayedScripts.defer,...this.delayedScripts.async],"preload")}_batchInjectResourceHints(t,e){var r=document.createDocumentFragment();t.forEach(t=>{let i=t.getAttribute&&t.getAttribute("data-rocket-src")||t.src;if(i){let n=document.createElement("link");n.href=i,n.rel=e,"preconnect"!==e&&(n.as="script"),t.getAttribute&&"module"===t.getAttribute("data-rocket-type")&&(n.crossOrigin=!0),t.crossOrigin&&(n.crossOrigin=t.crossOrigin),t.integrity&&(n.integrity=t.integrity),r.appendChild(n),this.trash.push(n)}}),document.head.appendChild(r)}_delayEventListeners(){let t={};function e(e,r){!function e(r){!t[r]&&(t[r]={originalFunctions:{add:r.addEventListener,remove:r.removeEventListener},eventsToRewrite:[]},r.addEventListener=function(){arguments[0]=i(arguments[0]),t[r].originalFunctions.add.apply(r,arguments)},r.removeEventListener=function(){arguments[0]=i(arguments[0]),t[r].originalFunctions.remove.apply(r,arguments)});function i(e){return t[r].eventsToRewrite.indexOf(e)>=0?"rocket-"+e:e}}(e),t[e].eventsToRewrite.push(r)}function r(t,e){let r=t[e];Object.defineProperty(t,e,{get:()=>r||function(){},set(i){t["rocket"+e]=r=i}})}e(document,"DOMContentLoaded"),e(window,"DOMContentLoaded"),e(window,"load"),e(window,"pageshow"),e(document,"readystatechange"),r(document,"onreadystatechange"),r(window,"onload"),r(window,"onpageshow")}_delayJQueryReady(t){let e;function r(t){return t.split(" ").map(t=>"load"===t||0===t.indexOf("load.")?"rocket-jquery-load":t).join(" ")}function i(i){if(i&&i.fn&&!t.allJQueries.includes(i)){i.fn.ready=i.fn.init.prototype.ready=function(e){return t.domReadyFired?e.bind(document)(i):document.addEventListener("rocket-DOMContentLoaded",()=>e.bind(document)(i)),i([])};let n=i.fn.on;i.fn.on=i.fn.init.prototype.on=function(){return this[0]===window&&("string"==typeof arguments[0]||arguments[0]instanceof String?arguments[0]=r(arguments[0]):"object"==typeof arguments[0]&&Object.keys(arguments[0]).forEach(t=>{let e=arguments[0][t];delete arguments[0][t],arguments[0][r(t)]=e})),n.apply(this,arguments),this},t.allJQueries.push(i)}e=i}i(window.jQuery),Object.defineProperty(window,"jQuery",{get:()=>e,set(t){i(t)}})}async _pendingWebpackRequests(t){let e=document.querySelector("script[data-webpack]");async function r(){return new Promise(t=>{e.addEventListener("load",t),e.addEventListener("error",t)})}e&&(await r(),await t._requestAnimFrame(),await t._pendingWebpackRequests(t))}async _triggerDOMContentLoaded(){this.domReadyFired=!0,await this._littleBreath(),document.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),window.dispatchEvent(new Event("rocket-DOMContentLoaded")),await this._littleBreath(),document.dispatchEvent(new Event("rocket-readystatechange")),await this._littleBreath(),document.rocketonreadystatechange&&document.rocketonreadystatechange()}async _triggerWindowLoad(){await this._littleBreath(),window.dispatchEvent(new Event("rocket-load")),await this._littleBreath(),window.rocketonload&&window.rocketonload(),await this._littleBreath(),this.allJQueries.forEach(t=>t(window).trigger("rocket-jquery-load")),await this._littleBreath();let t=new Event("rocket-pageshow");t.persisted=this.persisted,window.dispatchEvent(t),await this._littleBreath(),window.rocketonpageshow&&window.rocketonpageshow({persisted:this.persisted})}_handleDocumentWrite(){let t=new Map;document.write=document.writeln=function(e){let r=document.currentScript;r||console.error("WPRocket unable to document.write this: "+e);let i=document.createRange(),n=r.parentElement,s=t.get(r);void 0===s&&(s=r.nextSibling,t.set(r,s));let a=document.createDocumentFragment();i.setStart(a,0),a.appendChild(i.createContextualFragment(e)),n.insertBefore(a,s)}}async _littleBreath(){Date.now()-this.lastBreath>45&&(await this._requestAnimFrame(),this.lastBreath=Date.now())}async _requestAnimFrame(){return document.hidden?new Promise(t=>setTimeout(t)):new Promise(t=>requestAnimationFrame(t))}_emptyTrash(){this.trash.forEach(t=>t.remove())}static run(){let t=new RocketLazyLoadScripts;t._addUserInteractionListener(t)}}RocketLazyLoadScripts.run();</script>
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+<link rel="alternate" hreflang="fa" href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/">
+<link rel="alternate" hreflang="en" href="https://www.sepahanbattery.com/en/products/atomic-target/">
+<link rel="alternate" hreflang="ar" href="https://www.sepahanbattery.com/ar/atomic-target/">
+<link rel="alternate" hreflang="ru" href="https://www.sepahanbattery.com/ru/product/atomic-target/">
+<link rel="alternate" hreflang="x-default" href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/">
+
+	<!-- This site is optimized with the Yoast SEO plugin v21.7 - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>باتری اوربیتال سپاهان باتری، منبع قدرت و انرژی خودرو شما را تامین می کند - سپاهان باتری</title>
+	<meta name="description" content="کیفیت باتری اوربیتال سپاهان باتری با نمونه‌های خارجی باتری خودرو قابل رقابت است، خرید باتری اوربیتال، قدرت و انرژی خودرو را تامین خواهد کرد.">
+	<link rel="canonical" href="https://www.sepahanbattery.com/%D9%85%D8%AD%D8%B5%D9%88%D9%84%D8%A7%D8%AA/%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C-%D8%A7%D9%88%D8%B1%D8%A8%DB%8C%D8%AA%D8%A7%D9%84/">
+	<meta property="og:locale" content="fa_IR">
+	<meta property="og:type" content="article">
+	<meta property="og:title" content="باتری اوربیتال سپاهان باتری، منبع قدرت و انرژی خودرو شما را تامین می کند - سپاهان باتری">
+	<meta property="og:description" content="کیفیت باتری اوربیتال سپاهان باتری با نمونه‌های خارجی باتری خودرو قابل رقابت است، خرید باتری اوربیتال، قدرت و انرژی خودرو را تامین خواهد کرد.">
+	<meta property="og:url" content="https://www.sepahanbattery.com/محصولات/باتری-اوربیتال/">
+	<meta property="og:site_name" content="سپاهان باتری">
+	<meta property="article:modified_time" content="2023-12-25T07:00:17+00:00">
+	<meta property="og:image" content="https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="زمان تقریبی برای خواندن">
+	<meta name="twitter:data1" content="4 دقیقه">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/","url":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/","name":"باتری اوربیتال سپاهان باتری، منبع قدرت و انرژی خودرو شما را تامین می کند - سپاهان باتری","isPartOf":{"@id":"https://www.sepahanbattery.com/en/#website"},"primaryImageOfPage":{"@id":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/#primaryimage"},"image":{"@id":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/#primaryimage"},"thumbnailUrl":"https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png","datePublished":"2020-09-22T08:17:48+00:00","dateModified":"2023-12-25T07:00:17+00:00","description":"کیفیت باتری اوربیتال سپاهان باتری با نمونه‌های خارجی باتری خودرو قابل رقابت است، خرید باتری اوربیتال، قدرت و انرژی خودرو را تامین خواهد کرد.","breadcrumb":{"@id":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/#breadcrumb"},"inLanguage":"fa-IR","potentialAction":[{"@type":"ReadAction","target":["https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/"]}]},{"@type":"ImageObject","inLanguage":"fa-IR","@id":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/#primaryimage","url":"https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png","contentUrl":"https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png","width":92,"height":92},{"@type":"BreadcrumbList","@id":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"خانه","item":"https://www.sepahanbattery.com/"},{"@type":"ListItem","position":2,"name":"محصولات","item":"https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/"},{"@type":"ListItem","position":3,"name":"باتری اوربیتال"}]},{"@type":"WebSite","@id":"https://www.sepahanbattery.com/en/#website","url":"https://www.sepahanbattery.com/en/","name":"سپاهان باتری","description":"انرژی برای زندگی","publisher":{"@id":"https://www.sepahanbattery.com/en/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.sepahanbattery.com/en/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fa-IR"},{"@type":"Organization","@id":"https://www.sepahanbattery.com/en/#organization","name":"سپاهان باتری","url":"https://www.sepahanbattery.com/en/","logo":{"@type":"ImageObject","inLanguage":"fa-IR","@id":"https://www.sepahanbattery.com/en/#/schema/logo/image/","url":"https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-200-light.png","contentUrl":"https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-200-light.png","width":200,"height":266,"caption":"سپاهان باتری"},"image":{"@id":"https://www.sepahanbattery.com/en/#/schema/logo/image/"}}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+
+<link rel="alternate" type="application/rss+xml" title="سپاهان باتری » خوراک" href="https://www.sepahanbattery.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="سپاهان باتری » خوراک دیدگاه‌ها" href="https://www.sepahanbattery.com/comments/feed/">
+<link data-minify="1" rel="stylesheet" id="bdt-uikit-css" href="./OrbitalSepahanBattery_files/bdt-uikit.rtl.css" media="all">
+<link data-minify="1" rel="stylesheet" id="ep-helper-css" href="./OrbitalSepahanBattery_files/ep-helper.rtl.css" media="all">
+<link data-minify="1" rel="stylesheet" id="visual-portfolio-rtl-css" href="./OrbitalSepahanBattery_files/main.css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="./OrbitalSepahanBattery_files/jquery.fancybox.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="visual-portfolio-popup-fancybox-rtl-css" href="./OrbitalSepahanBattery_files/popup-fancybox.css" media="all">
+<style id="visual-portfolio-popup-fancybox-inline-css">
+.vp-fancybox .fancybox-bg { background-color: #dd9933; }
+</style>
+<style id="wp-emoji-styles-inline-css">
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<style id="classic-theme-styles-inline-css">
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id="global-styles-inline-css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link data-minify="1" rel="stylesheet" id="awsm-team-css-css" href="./OrbitalSepahanBattery_files/team.min.css" media="all">
+<link rel="stylesheet" id="wpml-legacy-horizontal-list-0-css" href="./OrbitalSepahanBattery_files/style.min.css" media="all">
+<link rel="stylesheet" id="hello-elementor-css" href="./OrbitalSepahanBattery_files/style(1).min.css" media="all">
+<link rel="stylesheet" id="hello-elementor-theme-style-css" href="./OrbitalSepahanBattery_files/theme.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="persian-elementor-front-css" href="./OrbitalSepahanBattery_files/front-rtl.css" media="all">
+<link data-minify="1" rel="stylesheet" id="persian-elementor-preview-icon-css" href="./OrbitalSepahanBattery_files/style.css" media="all">
+<link data-minify="1" rel="stylesheet" id="elementor-icons-css" href="./OrbitalSepahanBattery_files/elementor-icons.min.css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="./OrbitalSepahanBattery_files/frontend-rtl.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="swiper-css" href="./OrbitalSepahanBattery_files/swiper.css" media="all">
+<link rel="stylesheet" id="elementor-post-13208-css" href="./OrbitalSepahanBattery_files/post-13208.css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="./OrbitalSepahanBattery_files/frontend-rtl(1).min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="persian-elementor-font-css" href="./OrbitalSepahanBattery_files/font.css" media="all">
+<link data-minify="1" rel="stylesheet" id="font-awesome-5-all-css" href="./OrbitalSepahanBattery_files/all.min.css" media="all">
+<link rel="stylesheet" id="font-awesome-4-shim-css" href="./OrbitalSepahanBattery_files/v4-shims.min.css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="./OrbitalSepahanBattery_files/global.css" media="all">
+<link rel="stylesheet" id="elementor-post-6700-css" href="./OrbitalSepahanBattery_files/post-6700.css" media="all">
+<link rel="stylesheet" id="ep-source-code-css" href="./OrbitalSepahanBattery_files/ep-source-code.rtl.css" media="all">
+<link rel="stylesheet" id="elementor-post-4723-css" href="./OrbitalSepahanBattery_files/post-4723.css" media="all">
+<link rel="stylesheet" id="elementor-post-4909-css" href="./OrbitalSepahanBattery_files/post-4909.css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./OrbitalSepahanBattery_files/fontawesome.min.css" media="all">
+<link data-minify="1" rel="stylesheet" id="elementor-icons-fa-solid-css" href="./OrbitalSepahanBattery_files/solid.min.css" media="all">
+<script id="jquery-core-js" src="./OrbitalSepahanBattery_files/jquery.min.js.download" data-rocket-status="executed"></script>
+<script id="jquery-migrate-js" defer="" src="./OrbitalSepahanBattery_files/jquery-migrate.min.js.download" data-rocket-status="executed"></script>
+<script id="flatpickr-js" defer="" src="./OrbitalSepahanBattery_files/flatpickr.min.js.download" data-rocket-status="executed"></script>
+<script data-minify="1" id="persian-elementor-flatpickr-mobile-js" defer="" src="./OrbitalSepahanBattery_files/flatpickr-mobile.js.download" data-rocket-status="executed"></script>
+<script id="font-awesome-4-shim-js" defer="" src="./OrbitalSepahanBattery_files/v4-shims.min.js.download" data-rocket-status="executed"></script>
+<link rel="https://api.w.org/" href="https://www.sepahanbattery.com/wp-json/"><link rel="alternate" type="application/json" href="https://www.sepahanbattery.com/wp-json/wp/v2/pages/6700"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.sepahanbattery.com/xmlrpc.php?rsd">
+<meta name="generator" content="WordPress 6.4.2">
+<link rel="shortlink" href="https://www.sepahanbattery.com/?p=6700">
+<link rel="alternate" type="application/json+oembed" href="https://www.sepahanbattery.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sepahanbattery.com%2F%25d9%2585%25d8%25ad%25d8%25b5%25d9%2588%25d9%2584%25d8%25a7%25d8%25aa%2F%25d8%25a8%25d8%25a7%25d8%25aa%25d8%25b1%25db%258c-%25d8%25a7%25d9%2588%25d8%25b1%25d8%25a8%25db%258c%25d8%25aa%25d8%25a7%25d9%2584%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.sepahanbattery.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sepahanbattery.com%2F%25d9%2585%25d8%25ad%25d8%25b5%25d9%2588%25d9%2584%25d8%25a7%25d8%25aa%2F%25d8%25a8%25d8%25a7%25d8%25aa%25d8%25b1%25db%258c-%25d8%25a7%25d9%2588%25d8%25b1%25d8%25a8%25db%258c%25d8%25aa%25d8%25a7%25d9%2584%2F&amp;format=xml">
+<meta name="generator" content="WPML ver:4.6.8 stt:5,1,17,45;">
+<script type="text/javascript" src="data:text/javascript;base64,Ci8qIDwhW0NEQVRBWyAqLwp2YXIgVlBEYXRhID0geyJ2ZXJzaW9uIjoiMy4yLjMiLCJwcm8iOmZhbHNlLCJfXyI6eyJjb3VsZG50X3JldHJpZXZlX3ZwIjoiQ291bGRuJ3QgcmV0cmlldmUgVmlzdWFsIFBvcnRmb2xpbyBJRC4iLCJwc3dwX2Nsb3NlIjoiQ2xvc2UgKEVzYykiLCJwc3dwX3NoYXJlIjoiU2hhcmUiLCJwc3dwX2ZzIjoiVG9nZ2xlIGZ1bGxzY3JlZW4iLCJwc3dwX3pvb20iOiJab29tIGluXC9vdXQiLCJwc3dwX3ByZXYiOiJQcmV2aW91cyAoYXJyb3cgbGVmdCkiLCJwc3dwX25leHQiOiJOZXh0IChhcnJvdyByaWdodCkiLCJwc3dwX3NoYXJlX2ZiIjoiU2hhcmUgb24gRmFjZWJvb2siLCJwc3dwX3NoYXJlX3R3IjoiVHdlZXQiLCJwc3dwX3NoYXJlX3BpbiI6IlBpbiBpdCIsImZhbmN5Ym94X2Nsb3NlIjoiQ2xvc2UiLCJmYW5jeWJveF9uZXh0IjoiTmV4dCIsImZhbmN5Ym94X3ByZXYiOiJQcmV2aW91cyIsImZhbmN5Ym94X2Vycm9yIjoiVGhlIHJlcXVlc3RlZCBjb250ZW50IGNhbm5vdCBiZSBsb2FkZWQuIDxiciBcLz4gUGxlYXNlIHRyeSBhZ2FpbiBsYXRlci4iLCJmYW5jeWJveF9wbGF5X3N0YXJ0IjoiU3RhcnQgc2xpZGVzaG93IiwiZmFuY3lib3hfcGxheV9zdG9wIjoiUGF1c2Ugc2xpZGVzaG93IiwiZmFuY3lib3hfZnVsbF9zY3JlZW4iOiJGdWxsIHNjcmVlbiIsImZhbmN5Ym94X3RodW1icyI6IlRodW1ibmFpbHMiLCJmYW5jeWJveF9kb3dubG9hZCI6IkRvd25sb2FkIiwiZmFuY3lib3hfc2hhcmUiOiJTaGFyZSIsImZhbmN5Ym94X3pvb20iOiJab29tIn0sInNldHRpbmdzUG9wdXBHYWxsZXJ5Ijp7ImVuYWJsZV9vbl93b3JkcHJlc3NfaW1hZ2VzIjp0cnVlLCJ2ZW5kb3IiOiJmYW5jeWJveCIsImRlZXBfbGlua2luZyI6ZmFsc2UsImRlZXBfbGlua2luZ191cmxfdG9fc2hhcmVfaW1hZ2VzIjpmYWxzZSwic2hvd19hcnJvd3MiOnRydWUsInNob3dfY291bnRlciI6dHJ1ZSwic2hvd196b29tX2J1dHRvbiI6dHJ1ZSwic2hvd19mdWxsc2NyZWVuX2J1dHRvbiI6dHJ1ZSwic2hvd19zaGFyZV9idXR0b24iOnRydWUsInNob3dfY2xvc2VfYnV0dG9uIjp0cnVlLCJzaG93X3RodW1icyI6dHJ1ZSwic2hvd19kb3dubG9hZF9idXR0b24iOnRydWUsInNob3dfc2xpZGVzaG93Ijp0cnVlLCJjbGlja190b196b29tIjp0cnVlLCJyZXN0b3JlX2ZvY3VzIjp0cnVlfSwic2NyZWVuU2l6ZXMiOlszMjAsNTc2LDc2OCw5OTIsMTIwMF19OwovKiBdXT4gKi8K" data-rocket-status="executed">
+/* <![CDATA[ */
+var VPData = {"version":"3.2.3","pro":false,"__":{"couldnt_retrieve_vp":"Couldn't retrieve Visual Portfolio ID.","pswp_close":"Close (Esc)","pswp_share":"Share","pswp_fs":"Toggle fullscreen","pswp_zoom":"Zoom in\/out","pswp_prev":"Previous (arrow left)","pswp_next":"Next (arrow right)","pswp_share_fb":"Share on Facebook","pswp_share_tw":"Tweet","pswp_share_pin":"Pin it","fancybox_close":"Close","fancybox_next":"Next","fancybox_prev":"Previous","fancybox_error":"The requested content cannot be loaded. <br \/> Please try again later.","fancybox_play_start":"Start slideshow","fancybox_play_stop":"Pause slideshow","fancybox_full_screen":"Full screen","fancybox_thumbs":"Thumbnails","fancybox_download":"Download","fancybox_share":"Share","fancybox_zoom":"Zoom"},"settingsPopupGallery":{"enable_on_wordpress_images":true,"vendor":"fancybox","deep_linking":false,"deep_linking_url_to_share_images":false,"show_arrows":true,"show_counter":true,"show_zoom_button":true,"show_fullscreen_button":true,"show_share_button":true,"show_close_button":true,"show_thumbs":true,"show_download_button":true,"show_slideshow":true,"click_to_zoom":true,"restore_focus":true},"screenSizes":[320,576,768,992,1200]};
+/* ]]> */
+</script>
+		<noscript>
+			<style type="text/css">
+				.vp-portfolio__preloader-wrap{display:none}.vp-portfolio__filter-wrap,.vp-portfolio__items-wrap,.vp-portfolio__pagination-wrap,.vp-portfolio__sort-wrap{opacity:1;visibility:visible}.vp-portfolio__item .vp-portfolio__item-img noscript+img,.vp-portfolio__thumbnails-wrap{display:none}
+			</style>
+		</noscript>
+		<meta name="generator" content="Elementor 3.18.3; features: e_dom_optimization, e_optimized_assets_loading, additional_custom_breakpoints, block_editor_assets_optimize, e_image_loading_optimization; settings: css_print_method-external, google_font-enabled, font_display-auto">
+		<style type="text/css">
+			/* If html does not have either class, do not show lazy loaded images. */
+			html:not(.vp-lazyload-enabled):not(.js) .vp-lazyload {
+				display: none;
+			}
+		</style>
+		<script src="data:text/javascript;base64,CgkJCWRvY3VtZW50LmRvY3VtZW50RWxlbWVudC5jbGFzc0xpc3QuYWRkKAoJCQkJJ3ZwLWxhenlsb2FkLWVuYWJsZWQnCgkJCSk7CgkJ" data-rocket-status="executed">
+			document.documentElement.classList.add(
+				'vp-lazyload-enabled'
+			);
+		</script>
+		<link rel="icon" href="https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-158x146-1-36x36_9f630ae3bc9df1e7f0a8ec79b26fcd7f.png" sizes="32x32">
+<link rel="icon" href="https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-158x146-1-36x36_9f630ae3bc9df1e7f0a8ec79b26fcd7f.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-158x146-1-36x36_9f630ae3bc9df1e7f0a8ec79b26fcd7f.png">
+<meta name="msapplication-TileImage" content="https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-158x146-1-36x36_9f630ae3bc9df1e7f0a8ec79b26fcd7f.png">
+		<style id="wp-custom-css">
+			
+/* .wpfm-template-3 .wpfm-menu-nav.wpfm-position-left ul, .wpfm-template-3 .wpfm-menu-nav.wpfm-position-top-left ul, .wpfm-template-3 .wpfm-menu-nav.wpfm-position-bottom-left ul {
+    left: 43px;!important */
+}
+/* .wpfm-menu-nav.wpfm-position-left ul, .wpfm-position-top-left ul, .wpfm-position-bottom-left ul {
+    left: 39px;!important
+} */
+
+/* element.style {
+}
+.wpfm-template-2 .wpfm-menu-nav.wpfm-position-left ul, .wpfm-template-2 .wpfm-menu-nav.wpfm-position-top-left ul, .wpfm-template-2 .wpfm-menu-nav.wpfm-position-bottom-left ul {
+    left: 45px;!important
+} */
+ span.access.text-color.center{
+	display: inline-table;
+	padding:14px 10px 13px 10px; 
+ 	left:0px!important; 
+	position:fixed;
+	margin:-146px 0px 0px -29px!important;
+	transform:rotate(-180deg);
+ 	background-color:#dd3333; 
+} 
+.elementor-3485 .elementor-element.elementor-element-31f4de3:not(.elementor-motion-effects-element-type-background), .elementor-3485 .elementor-element.elementor-element-31f4de3 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #374485;
+    height: 165px!important;
+}
+/* .elementor-3485 .elementor-element.elementor-element-692d067 .elementor-image img {
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    border-color: #FFFFFF;
+    border-radius: 50% 50% 50% 50%;
+    margin-top: -50px!important;
+} */
+/* .elementor-3485 .elementor-element.elementor-element-e7900fd > .elementor-widget-container {
+    margin: -4% 0% 0% 0%!important;
+    padding: 5% 5% 5% 5%;
+} */
+.elementor-3485 .elementor-element.elementor-element-31f4de3:not(.elementor-motion-effects-element-type-background), .elementor-3485 .elementor-element.elementor-element-31f4de3 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #C6C8CA!important;
+    height: 165px!important;
+}
+.elementor-3485 .elementor-element.elementor-element-106d865:not(.elementor-motion-effects-element-type-background), .elementor-3485 .elementor-element.elementor-element-106d865 > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #C6C8CA;
+    height: 165px!important;
+}
+/* .elementor-3485 .elementor-element.elementor-element-0a7ea46 .elementor-image img {
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    border-color: #FFFFFF;
+    border-radius: 50% 50% 50% 50%;
+    margin-top: -50px!important;
+}
+.elementor-3485 .elementor-element.elementor-element-ce5b421 > .elementor-widget-container {
+    margin: -4% 0% 0% 0%!important;
+    padding: 5% 5% 5% 5%;
+} */
+/* .elementor-4909 .elementor-element.elementor-element-6644f33c:not(.elementor-motion-effects-element-type-background), .elementor-4909 .elementor-element.elementor-element-6644f33c > .elementor-motion-effects-container > .elementor-motion-effects-layer {
+    background-color: #C6C8CA;
+    height: 405px!important;
+} */
+/* .elementor:not(.elementor-bc-flex-widget) .elementor-widget-wrap {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    margin-top: -44px!important;
+} */
+/* .elementor-widget-tabs .elementor-tab-desktop-title {
+    position: relative;
+    padding: 20px 360px;!important
+    font-weight: 700;
+    line-height: 1;
+    border: solid transparent;
+} */
+.vp-filter__style-minimal .vp-filter__item a {
+    outline: none;
+    -webkit-box-shadow: none;
+    box-shadow: none;
+    font-size: 18px;
+    color: #54595F;
+}
+.fancybox-is-open .fancybox-stage {
+    overflow: hidden;
+    background-color: #d6dde4;
+}
+.elementor-5685 .elementor-element.elementor-element-a35817c > .elementor-element-populated, .elementor-5685 .elementor-element.elementor-element-a35817c > .elementor-element-populated > .elementor-background-overlay, .elementor-5685 .elementor-element.elementor-element-a35817c > .elementor-background-slideshow {
+    border-radius: 5px 5px 5px 5px !important;
+    background-color: #E7E7E7;
+}
+.pcd-selector-box select.pcd-select {
+    width: 100%;
+    margin: 0px -63px 8px 0 !important;
+    color: #575757;
+    font-size: 16px;
+}
+/* [type=button], [type=submit], button {
+    display: inline-block;
+    font-weight: 400;
+    color: #4054B2!important;
+    text-align: center;
+    white-space: nowrap;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    background-color: transparent;
+    border: 1px solid #4054B2!important;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: 3px;
+    -webkit-transition: all .3s;
+    -o-transition: all .3s;
+    transition: all .3s;
+} */
+.price{
+	display:none;
+}
+.cart{
+	display:none;
+}
+.woocommerce #respond input#submit, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+	display:none;
+}
+.related{
+	display:none;
+}
+.woocommerce div.product .product_title {
+	color: #686868;
+    clear: none;
+    margin-top: 68px;
+    padding: 9px;
+    font-size: 33px;
+    font-weight: 800;
+}
+.product_meta{
+	color: #686868;
+    font-size: 1rem;
+    font-weight: 400;
+}
+.woocommerce-tabs {
+	color: rgb(104, 104, 104);
+    display: block;
+    font-size: 16px;
+    font-weight: 400;
+}
+.woocommerce-Price-amount{
+	display:none;
+}
+.woocommerce-ordering{
+	display:none;
+}
+.type-product{
+    font-size: 20px;
+    font-weight: 800;
+	
+}
+.content-area{
+	    margin-top: 100px;
+}
+.wpfm-template-1 .wpfm-menu-nav.wpfm-position-right ul li > a:hover > span.wpfm-menu-name, .wpfm-template-1 .wpfm-menu-nav.wpfm-position-top-right ul li > a:hover > span.wpfm-menu-name, .wpfm-template-1 .wpfm-menu-nav.wpfm-position-bottom-right ul li > a:hover > span.wpfm-menu-name, .wpfm-template-1 ul li .wpfm-menu-name, .wpfm-template-2 .wpfm-menu-nav ul li a span.wpfm-menu-name, .wpfm-template-3 .wpfm-menu-nav.wpfm-position-left ul li a span.wpfm-menu-name, .wpfm-template-3 .wpfm-menu-nav.wpfm-position-right ul li a span.wpfm-menu-name, .wpfm-template-4 ul li .wpfm-menu-name, .wpfm-template-3 .wpfm-menu-nav ul li a span.wpfm-menu-name, .wpfm-template-3 .wpfm-menu-nav ul li a span.wpfm-menu-name, .wpfm-template-5 .wpfm-menu-nav ul li a span.wpfm-menu-name {
+    color: #ffffff;
+}
+.woocommerce div.product div.images img {
+    display: block;
+    width: 100%;
+    height: auto;
+    box-shadow: none;
+    display: none;
+}
+.woocommerce .woocommerce-breadcrumb {
+    margin: 0 0 1em;
+    padding: 0;
+    font-size: .92em;
+    color: #767676;
+    display: none !important;
+}
+.sbi-screenreader{
+	display:none!important;
+}
+ @media only screen and (min-width: 2560px){
+.elementor-5685 .elementor-element.elementor-element-1d2c850 .elementor-heading-title {
+    margin-right: 51px; 
+}
+	 @media only screen and (min-width: 2560px){
+	 .elementor-5685 .elementor-element.elementor-element-87e4a5a .elementor-heading-title {
+   margin-right: 26px;
+}
+		 
+
+#elementor-popup-modal-10911{
+   display: none; 
+}
+.ai-wrap .ai-tracklist{
+
+    font-size: 19px !important;
+		 }
+		 
+.elementor-widget-tabs .elementor-tab-content img{
+			 width:100% !important;
+		 }
+		 
+/* @media only screen and (min-width: 2560px){
+	 .sb-test {
+    margin-top:-4% !important;
+
+} */
+		 .ai-wrap .ai-track:hover, .ai-wrap .ai-track.ai-track-active {
+    background-color: #0f21f7 !important;
+    color: #ffffff;
+}
+.elementor-slideshow__title {
+    font-size: 25px;
+}
+			</style>
+		<noscript><style id="rocket-lazyload-nojs-css">.rll-youtube-player, [data-lazy-src]{display:none !important;}</style></noscript><link rel="prefetch" href="https://www.sepahanbattery.com/"></head>
+<body class="rtl page-template-default page page-id-6700 page-parent page-child parent-pageid-5685 elementor-default elementor-kit-13208 elementor-page elementor-page-6700 e--ua-blink e--ua-chrome e--ua-webkit" data-elementor-device-mode="desktop">
+
+		<script src="data:text/javascript;base64,CgkJCShmdW5jdGlvbigkKSB7CgkJCQlpZiAoISQpIHsKCQkJCQlyZXR1cm47CgkJCQl9CgoJCQkJLy8gUHJldmlvdXNseSB3ZSBhZGRlZCB0aGlzIGNvZGUgb24gRWxlbWVudG9yIHBhZ2VzIG9ubHksCgkJCQkvLyBidXQgc29tZXRpbWVzIExpZ2h0Ym94IGVuYWJsZWQgZ2xvYmFsbHkgYW5kIGl0IHN0aWxsIGNvbmZsaWN0aW5nIHdpdGggb3VyIGdhbGxlcmllcy4KCQkJCS8vIGlmICghJCgnLmVsZW1lbnRvci1wYWdlJykubGVuZ3RoKSB7CgkJCQkvLyAgICAgcmV0dXJuOwoJCQkJLy8gfQoKCQkJCWZ1bmN0aW9uIGFkZERhdGFBdHRyaWJ1dGUoJGl0ZW1zKSB7CgkJCQkJJGl0ZW1zLmZpbmQoJy52cC1wb3J0Zm9saW9fX2l0ZW0gYTpub3QoW2RhdGEtZWxlbWVudG9yLW9wZW4tbGlnaHRib3hdKScpLmVhY2goZnVuY3Rpb24gKCkgewoJCQkJCQlpZiAoL1wuKHBuZ3xqcGU/Z3xnaWZ8c3ZnfHdlYnApKFw/LiopPyQvaS50ZXN0KHRoaXMuaHJlZikpIHsKCQkJCQkJCXRoaXMuZGF0YXNldC5lbGVtZW50b3JPcGVuTGlnaHRib3ggPSAnbm8nOwoJCQkJCQl9CgkJCQkJfSk7CgkJCQl9CgoJCQkJJChkb2N1bWVudCkub24oJ2luaXQudnBmJywgZnVuY3Rpb24oZXZlbnQsIHZwT2JqZWN0KSB7CgkJCQkJaWYgKCd2cGYnICE9PSBldmVudC5uYW1lc3BhY2UpIHsKCQkJCQkJcmV0dXJuOwoJCQkJCX0KCgkJCQkJYWRkRGF0YUF0dHJpYnV0ZSh2cE9iamVjdC4kaXRlbSk7CgkJCQl9KTsKCQkJCSQoZG9jdW1lbnQpLm9uKCdhZGRJdGVtcy52cGYnLCBmdW5jdGlvbihldmVudCwgdnBPYmplY3QsICRpdGVtcykgewoJCQkJCWlmICgndnBmJyAhPT0gZXZlbnQubmFtZXNwYWNlKSB7CgkJCQkJCXJldHVybjsKCQkJCQl9CgoJCQkJCWFkZERhdGFBdHRyaWJ1dGUoJGl0ZW1zKTsKCQkJCX0pOwoJCQl9KSh3aW5kb3cualF1ZXJ5KTsKCQk=" data-rocket-status="executed">
+			(function($) {
+				if (!$) {
+					return;
+				}
+
+				// Previously we added this code on Elementor pages only,
+				// but sometimes Lightbox enabled globally and it still conflicting with our galleries.
+				// if (!$('.elementor-page').length) {
+				//     return;
+				// }
+
+				function addDataAttribute($items) {
+					$items.find('.vp-portfolio__item a:not([data-elementor-open-lightbox])').each(function () {
+						if (/\.(png|jpe?g|gif|svg|webp)(\?.*)?$/i.test(this.href)) {
+							this.dataset.elementorOpenLightbox = 'no';
+						}
+					});
+				}
+
+				$(document).on('init.vpf', function(event, vpObject) {
+					if ('vpf' !== event.namespace) {
+						return;
+					}
+
+					addDataAttribute(vpObject.$item);
+				});
+				$(document).on('addItems.vpf', function(event, vpObject, $items) {
+					if ('vpf' !== event.namespace) {
+						return;
+					}
+
+					addDataAttribute($items);
+				});
+			})(window.jQuery);
+		</script>
+		
+<a class="skip-link screen-reader-text" href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/#content">پرش به محتوا</a>
+
+		<header data-elementor-type="header" data-elementor-id="4723" class="elementor elementor-4723 elementor-location-header">
+								<section class="elementor-section elementor-top-section elementor-element elementor-element-b2c13e4 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="b2c13e4" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 1903px; right: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-701e0ba" data-id="701e0ba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0893a5a elementor-nav-menu__align-center elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="0893a5a" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-0893a5a" class="elementor-nav-menu" data-smartmenus-id="17037747683847092"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27110"><a href="https://www.sepahanbattery.com/" class="elementor-item">فارسی</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="--menu-height: 0;">
+				<ul id="menu-2-0893a5a" class="elementor-nav-menu" data-smartmenus-id="17037747683851946"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-27110"><a href="https://www.sepahanbattery.com/" class="elementor-item" tabindex="-1">فارسی</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-9715958" data-id="9715958" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f195887 elementor-nav-menu__align-center elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="f195887" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-f195887" class="elementor-nav-menu" data-smartmenus-id="17037747683862747"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31936"><a href="https://www.sepahanbattery.com/ar/%d8%b3%d8%a8%d8%a7%d9%87%d8%a7%d9%86-%d8%a8%d8%a7%d8%b7%d8%b1%db%8c3/" class="elementor-item">العربیه</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="--menu-height: 0;">
+				<ul id="menu-2-f195887" class="elementor-nav-menu" data-smartmenus-id="17037747683860864"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31936"><a href="https://www.sepahanbattery.com/ar/%d8%b3%d8%a8%d8%a7%d9%87%d8%a7%d9%86-%d8%a8%d8%a7%d8%b7%d8%b1%db%8c3/" class="elementor-item" tabindex="-1">العربیه</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-44a3cef" data-id="44a3cef" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-999ae08 elementor-nav-menu__align-center elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="999ae08" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-999ae08" class="elementor-nav-menu" data-smartmenus-id="1703774768387465"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31965"><a href="https://www.sepahanbattery.com/en/sepahan-battery2/" class="elementor-item">English</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="--menu-height: 0;">
+				<ul id="menu-2-999ae08" class="elementor-nav-menu" data-smartmenus-id="17037747683870151"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31965"><a href="https://www.sepahanbattery.com/en/sepahan-battery2/" class="elementor-item" tabindex="-1">English</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-0c72b2c" data-id="0c72b2c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-cc035d9 elementor-nav-menu__align-center elementor-nav-menu--dropdown-none elementor-widget elementor-widget-nav-menu" data-id="cc035d9" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-cc035d9" class="elementor-nav-menu" data-smartmenus-id="17037747683877534"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31879"><a href="https://www.sepahanbattery.com/ru/%d1%81%d0%b5%d0%bf%d0%b0%d1%85%d0%b0%d0%bd-%d0%b1%d0%b0%d1%82%d1%80%d0%b8/" class="elementor-item">Russian</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="--menu-height: 0;">
+				<ul id="menu-2-cc035d9" class="elementor-nav-menu" data-smartmenus-id="17037747683881157"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31879"><a href="https://www.sepahanbattery.com/ru/%d1%81%d0%b5%d0%bf%d0%b0%d1%85%d0%b0%d0%bd-%d0%b1%d0%b0%d1%82%d1%80%d0%b8/" class="elementor-item" tabindex="-1">Russian</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-13e7149" data-id="13e7149" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-585e178" data-id="585e178" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-19e33a3 elementor-search-form-skin-default elementor-widget elementor-widget-bdt-search" data-id="19e33a3" data-element_type="widget" data-widget_type="bdt-search.default">
+				<div class="elementor-widget-container">
+					<div class="bdt-search-container">
+			
+			
+			<form class="bdt-search bdt-search-default" role="search" method="get" action="https://www.sepahanbattery.com/">
+				<div class="bdt-position-relative">
+					<span class="bdt-icon bdt-search-icon" data-bdt-search-icon=""><svg width="20" height="20" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><circle fill="none" stroke="#000" stroke-width="1.1" cx="9" cy="9" r="7"></circle><path fill="none" stroke="#000" stroke-width="1.1" d="M14,14 L18,18 L14,14 Z"></path></svg></span>											<input name="post_type" id="post_type" type="hidden" value="post">
+										<input placeholder="جستجو..." class="bdt-search-input" type="search" name="s" title="جستجو" value="">
+									</div>
+
+
+							</form>
+
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4945b3b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4945b3b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-8dd6cd2 elementor-hidden-desktop elementor-hidden-tablet" data-id="8dd6cd2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7d0e302 elementor-widget elementor-widget-image" data-id="7d0e302" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/">
+							<img width="172" height="80" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20172%2080&#39;%3E%3C/svg%3E" class="attachment-full size-full wp-image-7828" alt="" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-logo.gif"><noscript><img width="172" height="80" src="https://www.sepahanbattery.com/wp-content/uploads/2020/07/logo-logo.gif" class="attachment-full size-full wp-image-7828" alt="" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-4da089b elementor-hidden-desktop elementor-hidden-tablet" data-id="4da089b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-aefb4a7 elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="aefb4a7" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;dropdown&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;},&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="تنظیم منو" aria-expanded="false">
+			<i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--open eicon-menu-bar"></i><i aria-hidden="true" role="presentation" class="elementor-menu-toggle__icon--close eicon-close"></i>			<span class="elementor-screen-only">منو</span>
+		</div>
+					<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="width: 1903px; right: -1903px; top: 0px; --menu-height: 0;">
+				<ul id="menu-2-aefb4a7" class="elementor-nav-menu" data-smartmenus-id="17037747683884756"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-4871"><a href="https://www.sepahanbattery.com/" class="elementor-item" tabindex="-1">خانه</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10319"><a class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683884756-1" aria-haspopup="true" aria-controls="sm-17037747683884756-2" aria-expanded="false">پرتال ها و سامانه ها<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-2" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-1" aria-expanded="false">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10320"><a href="http://centerd.sepahanbattery.com:85/fa-IR/CustomerVoice/ConsumerExcessWarrantywnl" class="elementor-sub-item" tabindex="-1">فروش گارانتی مازاد</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10321"><a href="http://centerd.sepahanbattery.com:85/fa-IR/Login?cpy=001" class="elementor-sub-item" tabindex="-1">پرتال تامین کنندگان</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10322"><a href="http://sepahand.sepahanbattery.com:86/UserSecurity/Login.aspx?ReturnUrl=" class="elementor-sub-item" tabindex="-1">پرتال مشتریان</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-10323"><a href="https://ihrp.sepahanbattery.com/Account/Login?ReturnUrl=%2f" class="elementor-sub-item" tabindex="-1">پرتال پرسنلی</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-8029"><a href="https://www.sepahanbattery.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/" class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683884756-3" aria-haspopup="true" aria-controls="sm-17037747683884756-4" aria-expanded="false">درباره ما<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-4" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-3" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33047"><a href="https://www.sepahanbattery.com/%da%86%d8%b4%d9%85-%d8%a7%d9%86%d8%af%d8%a7%d8%b2-%d9%88-%d9%85%d8%a7%d9%85%d9%88%d8%b1%db%8c%d8%aa/" class="elementor-sub-item" tabindex="-1">چشم انداز و ماموریت</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33049"><a href="https://www.sepahanbattery.com/%da%af%d9%88%d8%a7%d9%87%db%8c%d9%86%d8%a7%d9%85%d9%87-%d9%87%d8%a7-%d9%88-%d8%a7%d9%81%d8%aa%d8%ae%d8%a7%d8%b1%d8%a7%d8%aa/" class="elementor-sub-item" tabindex="-1">گواهینامه ها و افتخارات</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-page-parent current_page_ancestor menu-item-has-children menu-item-25956"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/" class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683884756-5" aria-haspopup="true" aria-controls="sm-17037747683884756-6" aria-expanded="false">محصولات<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-6" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-5" aria-expanded="false">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-32518"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683884756-7" aria-haspopup="true" aria-controls="sm-17037747683884756-8" aria-expanded="false">باتری خودرویی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-8" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-7" aria-expanded="false">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-37240"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683884756-9" aria-haspopup="true" aria-controls="sm-17037747683884756-10" aria-expanded="false">باتری اوربیتال<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+		<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-10" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-9" aria-expanded="false">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36212"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1%d8%aa-%d8%a7%d8%b3%d8%aa%d8%a7%d9%be/" class="elementor-sub-item" tabindex="-1">باتری اوربیتال استارت-استاپ</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6700 current_page_item menu-item-36213"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">باتری اوربیتال پاورپلاس</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32520"><a class="elementor-sub-item" tabindex="-1">باتری اتمیک</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37228"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683884756-11" aria-haspopup="true" aria-controls="sm-17037747683884756-12" aria-expanded="false">باتری صنعتی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-12" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-11" aria-expanded="false">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37229"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-ups/" class="elementor-sub-item" tabindex="-1">ups باتری</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37230"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-%d8%b3%d9%88%d9%84%d8%a7%d8%b1/" class="elementor-sub-item" tabindex="-1">باتری سولار</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32360"><a href="https://www.sepahanbattery.com/%da%af%d8%a7%d8%b1%d8%a7%d9%86%d8%aa%db%8c/" class="elementor-item" tabindex="-1">گارانتی باتری</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6838"><a href="https://www.sepahanbattery.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%87%d9%85%db%8c%d8%a7%d8%b1/" class="elementor-item" tabindex="-1">سامانه همیار</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-32517"><a class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683884756-13" aria-haspopup="true" aria-controls="sm-17037747683884756-14" aria-expanded="false">مجله سپاهان پلاس<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-14" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-13" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32515"><a href="https://www.sepahanbattery.com/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%88-%d8%a2%d9%85%d9%88%d8%b2%d8%b4/" class="elementor-sub-item" tabindex="-1">مقالات و آموزش</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32514"><a href="https://www.sepahanbattery.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%b3%d9%be%d8%a7%d9%87%d8%a7%d9%86-%d8%a8%d8%a7%d8%aa%d8%b1%db%8c/" class="elementor-sub-item" tabindex="-1">سوالات متداول</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32513"><a href="https://www.sepahanbattery.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%d9%88-%d8%b1%d9%88%db%8c%d8%af%d8%a7%d8%af%d9%87%d8%a7/" class="elementor-sub-item" tabindex="-1">اخبار و رویدادها</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32516"><a href="https://www.sepahanbattery.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d9%87%d8%a7/" class="elementor-sub-item" tabindex="-1">نمایشگاه ها</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4890"><a href="https://www.sepahanbattery.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/" class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683884756-15" aria-haspopup="true" aria-controls="sm-17037747683884756-16" aria-expanded="false">تماس با ما<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-16" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-15" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-33050"><a href="https://www.sepahanbattery.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/" class="elementor-sub-item" tabindex="-1">ارتباط با ما</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11054"><a href="http://jazbsep.acctechco.com/fa-IR/Sepahan/Career/1" class="elementor-sub-item" tabindex="-1">استخدام</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21492"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683884756-17" aria-haspopup="true" aria-controls="sm-17037747683884756-18" aria-expanded="false">پرسشنامه ها<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683884756-18" role="group" aria-hidden="true" aria-labelledby="sm-17037747683884756-17" aria-expanded="false">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21493"><a href="https://www.sepahanbattery.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d8%b1%d8%b6%d8%a7%db%8c%d8%aa-%d8%b3%d9%86%d8%ac%db%8c-%d9%85%d8%b5%d8%b1%d9%81-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86/" class="elementor-sub-item" tabindex="-1">رضایت سنجی</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21494"><a href="https://www.sepahanbattery.com/%d9%81%d8%b1%d9%85-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d8%b1%d8%b6%d8%a7%db%8c%d8%aa%db%8c-%d9%88-%d8%b4%da%a9%d8%a7%db%8c%d8%a7%d8%aa-%d9%85%d8%b5%d8%b1%d9%81-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86/" class="elementor-sub-item" tabindex="-1">ثبت نارضایتی و شکایات</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<header class="elementor-section elementor-top-section elementor-element elementor-element-8cab94a elementor-section-full_width elementor-section-stretched elementor-hidden-phone elementor-section-height-default elementor-section-height-default" data-id="8cab94a" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}" style="width: 1903px; right: 0px;">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-cdb5c3a" data-id="cdb5c3a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5edea20 elementor-nav-menu__align-center elementor-nav-menu--dropdown-none elementor-hidden-phone elementor-widget elementor-widget-nav-menu" data-id="5edea20" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-5edea20" class="elementor-nav-menu" data-smartmenus-id="17037747683920312"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5618"><a href="https://www.sepahanbattery.com/" class="elementor-item">خانه</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-page-parent current_page_ancestor menu-item-has-children menu-item-25950"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/" class="elementor-item has-submenu" id="sm-17037747683920312-1" aria-haspopup="true" aria-controls="sm-17037747683920312-2" aria-expanded="false">محصولات<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683920312-2" role="group" aria-hidden="true" aria-labelledby="sm-17037747683920312-1" aria-expanded="false">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-36025"><a class="elementor-sub-item has-submenu" id="sm-17037747683920312-3" aria-haspopup="true" aria-controls="sm-17037747683920312-4" aria-expanded="false">باتری خودرویی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683920312-4" role="group" aria-hidden="true" aria-labelledby="sm-17037747683920312-3" aria-expanded="false">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-37239"><a class="elementor-sub-item has-submenu" id="sm-17037747683920312-5" aria-haspopup="true" aria-controls="sm-17037747683920312-6" aria-expanded="false">باتری اوربیتال<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+		<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683920312-6" role="group" aria-hidden="true" aria-labelledby="sm-17037747683920312-5" aria-expanded="false">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36211"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1%d8%aa-%d8%a7%d8%b3%d8%aa%d8%a7%d9%be/" class="elementor-sub-item">باتری اوربیتال استارت-استاپ</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6700 current_page_item menu-item-30419"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/" aria-current="page" class="elementor-sub-item elementor-item-active">باتری اوربیتال پاورپلاس</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30426"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d8%aa%d9%85%db%8c%da%a9/" class="elementor-sub-item">باتری اتمیک</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37225"><a class="elementor-sub-item has-submenu" id="sm-17037747683920312-7" aria-haspopup="true" aria-controls="sm-17037747683920312-8" aria-expanded="false">باتری صنعتی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683920312-8" role="group" aria-hidden="true" aria-labelledby="sm-17037747683920312-7" aria-expanded="false">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37227"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-%d8%b3%d9%88%d9%84%d8%a7%d8%b1/" class="elementor-sub-item">باتری سولار</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37226"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-ups/" class="elementor-sub-item">ups باتری</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34155"><a class="elementor-item has-submenu" id="sm-17037747683920312-9" aria-haspopup="true" aria-controls="sm-17037747683920312-10" aria-expanded="false">تکنولوژی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683920312-10" role="group" aria-hidden="true" aria-labelledby="sm-17037747683920312-9" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34156"><a href="https://www.sepahanbattery.com/product-technology/" class="elementor-sub-item">تکنولوژی محصول</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34157"><a href="https://www.sepahanbattery.com/grid-production-technology/" class="elementor-sub-item">فناوری تولید شبکه</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34158"><a href="https://www.sepahanbattery.com/quality-rd/" class="elementor-sub-item">تحقیق و توسعه</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11045"><a href="https://www.sepahanbattery.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%87%d9%85%db%8c%d8%a7%d8%b1/" class="elementor-item">سامانه همیار</a></li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="--menu-height: 0;">
+				<ul id="menu-2-5edea20" class="elementor-nav-menu" data-smartmenus-id="17037747683934656"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-5618"><a href="https://www.sepahanbattery.com/" class="elementor-item" tabindex="-1">خانه</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-page-parent current_page_ancestor menu-item-has-children menu-item-25950"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/" class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683934656-1" aria-haspopup="true" aria-controls="sm-17037747683934656-2" aria-expanded="false">محصولات<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683934656-2" role="group" aria-hidden="true" aria-labelledby="sm-17037747683934656-1" aria-expanded="false">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor menu-item-has-children menu-item-36025"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683934656-3" aria-haspopup="true" aria-controls="sm-17037747683934656-4" aria-expanded="false">باتری خودرویی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683934656-4" role="group" aria-hidden="true" aria-labelledby="sm-17037747683934656-3" aria-expanded="false">
+		<li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-37239"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683934656-5" aria-haspopup="true" aria-controls="sm-17037747683934656-6" aria-expanded="false">باتری اوربیتال<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+		<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683934656-6" role="group" aria-hidden="true" aria-labelledby="sm-17037747683934656-5" aria-expanded="false">
+			<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36211"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%a7%d8%b3%d8%aa%d8%a7%d8%b1%d8%aa-%d8%a7%d8%b3%d8%aa%d8%a7%d9%be/" class="elementor-sub-item" tabindex="-1">باتری اوربیتال استارت-استاپ</a></li>
+			<li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6700 current_page_item menu-item-30419"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/" aria-current="page" class="elementor-sub-item elementor-item-active" tabindex="-1">باتری اوربیتال پاورپلاس</a></li>
+		</ul>
+</li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30426"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d8%aa%d9%85%db%8c%da%a9/" class="elementor-sub-item" tabindex="-1">باتری اتمیک</a></li>
+	</ul>
+</li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-37225"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683934656-7" aria-haspopup="true" aria-controls="sm-17037747683934656-8" aria-expanded="false">باتری صنعتی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683934656-8" role="group" aria-hidden="true" aria-labelledby="sm-17037747683934656-7" aria-expanded="false">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37227"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-%d8%b3%d9%88%d9%84%d8%a7%d8%b1/" class="elementor-sub-item" tabindex="-1">باتری سولار</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37226"><a href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-ups/" class="elementor-sub-item" tabindex="-1">ups باتری</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34155"><a class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683934656-9" aria-haspopup="true" aria-controls="sm-17037747683934656-10" aria-expanded="false">تکنولوژی<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683934656-10" role="group" aria-hidden="true" aria-labelledby="sm-17037747683934656-9" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34156"><a href="https://www.sepahanbattery.com/product-technology/" class="elementor-sub-item" tabindex="-1">تکنولوژی محصول</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34157"><a href="https://www.sepahanbattery.com/grid-production-technology/" class="elementor-sub-item" tabindex="-1">فناوری تولید شبکه</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34158"><a href="https://www.sepahanbattery.com/quality-rd/" class="elementor-sub-item" tabindex="-1">تحقیق و توسعه</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11045"><a href="https://www.sepahanbattery.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%87%d9%85%db%8c%d8%a7%d8%b1/" class="elementor-item" tabindex="-1">سامانه همیار</a></li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-e6a50c8" data-id="e6a50c8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-698377e elementor-hidden-phone elementor-widget elementor-widget-image" data-id="698377e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/">
+							<img src="./OrbitalSepahanBattery_files/logo-pxp4ot334kaqvkxwsd2lpsv50ycchhy2bmoz49c36q.png" title="logo" alt="logo" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/logo-pxp4ot334kaqvkxwsd2lpsv50ycchhy2bmoz49c36q.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/logo-pxp4ot334kaqvkxwsd2lpsv50ycchhy2bmoz49c36q.png" title="logo" alt="logo" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-30bb08b" data-id="30bb08b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2df2bed elementor-nav-menu--dropdown-none elementor-hidden-phone elementor-nav-menu__align-center elementor-widget elementor-widget-nav-menu" data-id="2df2bed" data-element_type="widget" data-settings="{&quot;layout&quot;:&quot;horizontal&quot;,&quot;submenu_icon&quot;:{&quot;value&quot;:&quot;&lt;i class=\&quot;fas fa-caret-down\&quot;&gt;&lt;\/i&gt;&quot;,&quot;library&quot;:&quot;fa-solid&quot;}}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-none">
+				<ul id="menu-1-2df2bed" class="elementor-nav-menu" data-smartmenus-id="170377476839463"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20137"><a class="elementor-item has-submenu" id="sm-170377476839463-1" aria-haspopup="true" aria-controls="sm-170377476839463-2" aria-expanded="false">مجله سپاهان پلاس<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-170377476839463-2" role="group" aria-hidden="true" aria-labelledby="sm-170377476839463-1" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20161"><a href="https://www.sepahanbattery.com/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%88-%d8%a2%d9%85%d9%88%d8%b2%d8%b4/" class="elementor-sub-item">مقالات و آموزش</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20138"><a href="https://www.sepahanbattery.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%b3%d9%be%d8%a7%d9%87%d8%a7%d9%86-%d8%a8%d8%a7%d8%aa%d8%b1%db%8c/" class="elementor-sub-item">سوالات متداول</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20174"><a href="https://www.sepahanbattery.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%d9%88-%d8%b1%d9%88%db%8c%d8%af%d8%a7%d8%af%d9%87%d8%a7/" class="elementor-sub-item">اخبار و رویدادها</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20193"><a href="https://www.sepahanbattery.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d9%87%d8%a7/" class="elementor-sub-item">نمایشگاه ها</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11158"><a href="https://www.sepahanbattery.com/%da%af%d8%a7%d8%b1%d8%a7%d9%86%d8%aa%db%8c/" class="elementor-item">گارانتی باتری</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34159"><a class="elementor-item has-submenu" id="sm-170377476839463-3" aria-haspopup="true" aria-controls="sm-170377476839463-4" aria-expanded="false">درباره ما<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-170377476839463-4" role="group" aria-hidden="true" aria-labelledby="sm-170377476839463-3" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34739"><a href="https://www.sepahanbattery.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/" class="elementor-sub-item">درباره سپاهان باتری</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34160"><a href="https://www.sepahanbattery.com/%da%86%d8%b4%d9%85-%d8%a7%d9%86%d8%af%d8%a7%d8%b2-%d9%88-%d9%85%d8%a7%d9%85%d9%88%d8%b1%db%8c%d8%aa/" class="elementor-sub-item">چشم انداز و ماموریت</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34162"><a href="https://www.sepahanbattery.com/%da%af%d9%88%d8%a7%d9%87%db%8c%d9%86%d8%a7%d9%85%d9%87-%d9%87%d8%a7-%d9%88-%d8%a7%d9%81%d8%aa%d8%ae%d8%a7%d8%b1%d8%a7%d8%aa/" class="elementor-sub-item">گواهینامه ها و افتخارات</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-32357"><a class="elementor-item has-submenu" id="sm-170377476839463-5" aria-haspopup="true" aria-controls="sm-170377476839463-6" aria-expanded="false">تماس با ما<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-170377476839463-6" role="group" aria-hidden="true" aria-labelledby="sm-170377476839463-5" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32358"><a href="https://www.sepahanbattery.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/" class="elementor-sub-item">ارتباط با ما</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11046"><a href="http://jazbsep.acctechco.com/fa-IR/Sepahan/Career/1" class="elementor-sub-item">استخدام</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21471"><a class="elementor-sub-item has-submenu" id="sm-170377476839463-7" aria-haspopup="true" aria-controls="sm-170377476839463-8" aria-expanded="false">پرسشنامه ها<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-170377476839463-8" role="group" aria-hidden="true" aria-labelledby="sm-170377476839463-7" aria-expanded="false">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21472"><a href="https://www.sepahanbattery.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d8%b1%d8%b6%d8%a7%db%8c%d8%aa-%d8%b3%d9%86%d8%ac%db%8c-%d9%85%d8%b5%d8%b1%d9%81-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86/" class="elementor-sub-item">رضایت سنجی</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21473"><a href="https://www.sepahanbattery.com/%d9%81%d8%b1%d9%85-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d8%b1%d8%b6%d8%a7%db%8c%d8%aa%db%8c-%d9%88-%d8%b4%da%a9%d8%a7%db%8c%d8%a7%d8%aa-%d9%85%d8%b5%d8%b1%d9%81-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86/" class="elementor-sub-item">ثبت نارضایتی و شکایات</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>			</nav>
+						<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" aria-hidden="true" style="--menu-height: 0;">
+				<ul id="menu-2-2df2bed" class="elementor-nav-menu" data-smartmenus-id="17037747683968657"><li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-20137"><a class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683968657-1" aria-haspopup="true" aria-controls="sm-17037747683968657-2" aria-expanded="false">مجله سپاهان پلاس<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683968657-2" role="group" aria-hidden="true" aria-labelledby="sm-17037747683968657-1" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20161"><a href="https://www.sepahanbattery.com/%d9%85%d9%82%d8%a7%d9%84%d8%a7%d8%aa-%d9%88-%d8%a2%d9%85%d9%88%d8%b2%d8%b4/" class="elementor-sub-item" tabindex="-1">مقالات و آموزش</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20138"><a href="https://www.sepahanbattery.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%b3%d9%be%d8%a7%d9%87%d8%a7%d9%86-%d8%a8%d8%a7%d8%aa%d8%b1%db%8c/" class="elementor-sub-item" tabindex="-1">سوالات متداول</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20174"><a href="https://www.sepahanbattery.com/%d8%a7%d8%ae%d8%a8%d8%a7%d8%b1-%d9%88-%d8%b1%d9%88%db%8c%d8%af%d8%a7%d8%af%d9%87%d8%a7/" class="elementor-sub-item" tabindex="-1">اخبار و رویدادها</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20193"><a href="https://www.sepahanbattery.com/%d9%86%d9%85%d8%a7%db%8c%d8%b4%da%af%d8%a7%d9%87-%d9%87%d8%a7/" class="elementor-sub-item" tabindex="-1">نمایشگاه ها</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11158"><a href="https://www.sepahanbattery.com/%da%af%d8%a7%d8%b1%d8%a7%d9%86%d8%aa%db%8c/" class="elementor-item" tabindex="-1">گارانتی باتری</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-34159"><a class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683968657-3" aria-haspopup="true" aria-controls="sm-17037747683968657-4" aria-expanded="false">درباره ما<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683968657-4" role="group" aria-hidden="true" aria-labelledby="sm-17037747683968657-3" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34739"><a href="https://www.sepahanbattery.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/" class="elementor-sub-item" tabindex="-1">درباره سپاهان باتری</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34160"><a href="https://www.sepahanbattery.com/%da%86%d8%b4%d9%85-%d8%a7%d9%86%d8%af%d8%a7%d8%b2-%d9%88-%d9%85%d8%a7%d9%85%d9%88%d8%b1%db%8c%d8%aa/" class="elementor-sub-item" tabindex="-1">چشم انداز و ماموریت</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-34162"><a href="https://www.sepahanbattery.com/%da%af%d9%88%d8%a7%d9%87%db%8c%d9%86%d8%a7%d9%85%d9%87-%d9%87%d8%a7-%d9%88-%d8%a7%d9%81%d8%aa%d8%ae%d8%a7%d8%b1%d8%a7%d8%aa/" class="elementor-sub-item" tabindex="-1">گواهینامه ها و افتخارات</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-32357"><a class="elementor-item has-submenu" tabindex="-1" id="sm-17037747683968657-5" aria-haspopup="true" aria-controls="sm-17037747683968657-6" aria-expanded="false">تماس با ما<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683968657-6" role="group" aria-hidden="true" aria-labelledby="sm-17037747683968657-5" aria-expanded="false">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32358"><a href="https://www.sepahanbattery.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/" class="elementor-sub-item" tabindex="-1">ارتباط با ما</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-11046"><a href="http://jazbsep.acctechco.com/fa-IR/Sepahan/Career/1" class="elementor-sub-item" tabindex="-1">استخدام</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21471"><a class="elementor-sub-item has-submenu" tabindex="-1" id="sm-17037747683968657-7" aria-haspopup="true" aria-controls="sm-17037747683968657-8" aria-expanded="false">پرسشنامه ها<span class="sub-arrow"><i class="fas fa-caret-down"></i></span></a>
+	<ul class="sub-menu elementor-nav-menu--dropdown" id="sm-17037747683968657-8" role="group" aria-hidden="true" aria-labelledby="sm-17037747683968657-7" aria-expanded="false">
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21472"><a href="https://www.sepahanbattery.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d8%b1%d8%b6%d8%a7%db%8c%d8%aa-%d8%b3%d9%86%d8%ac%db%8c-%d9%85%d8%b5%d8%b1%d9%81-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86/" class="elementor-sub-item" tabindex="-1">رضایت سنجی</a></li>
+		<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21473"><a href="https://www.sepahanbattery.com/%d9%81%d8%b1%d9%85-%d8%ab%d8%a8%d8%aa-%d9%86%d8%a7%d8%b1%d8%b6%d8%a7%db%8c%d8%aa%db%8c-%d9%88-%d8%b4%da%a9%d8%a7%db%8c%d8%a7%d8%aa-%d9%85%d8%b5%d8%b1%d9%81-%da%a9%d9%86%d9%86%d8%af%da%af%d8%a7%d9%86/" class="elementor-sub-item" tabindex="-1">ثبت نارضایتی و شکایات</a></li>
+	</ul>
+</li>
+</ul>
+</li>
+</ul>			</nav>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</header>
+						</header>
+		
+<main id="content" class="site-main post-6700 page type-page status-publish hentry">
+
+	
+	<div class="page-content">
+				<div data-elementor-type="wp-page" data-elementor-id="6700" class="elementor elementor-6700">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-4c94759 elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-hidden-tablet elementor-hidden-phone elementor-section-height-default" data-id="4c94759" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-d7cf1d6" data-id="d7cf1d6" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;none&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4533dbb elementor-widget elementor-widget-heading" data-id="4533dbb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">باتری اوربیتال</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-52d4758 elementor-widget elementor-widget-heading" data-id="52d4758" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">استارت قهرمانانه</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ae43d97 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="ae43d97" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-0496cbf elementor-widget elementor-widget-text-editor" data-id="0496cbf" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>در میان انواع (برندهای) مختلف باتری های خودرویی، برند اوربیتال، کامل‌ترین سبد محصولات را به خود اختصاص داده است.</p><p>این باتری منحصربه فرد، از لحاظ شاخص های تولیدی، فنی و همچنین فاکتورهای کیفی در رتبه&nbsp; برتر باتری های تولیدی کشور قرار می‌گیرد. شما می توانید با خرید باتری اوربیتال، قدرت و انرژی را برای استارت خودرو خود تضمین کنید</p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-1dc4416" data-id="1dc4416" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated e-swiper-container">
+								<div class="elementor-element elementor-element-e7395df elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides e-widget-swiper" data-id="e7395df" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-rtl" dir="rtl" data-animation="fadeInUp" style="cursor: grab;">
+				<div class="swiper-wrapper elementor-slides" style="transition-duration: 0ms; transform: translate3d(2538px, 0px, 0px);"><div class="elementor-repeater-item-f5p4cf8 swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 1269px;"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style=""></div></div></div><div class="elementor-repeater-item-3b0c59b swiper-slide swiper-slide-duplicate swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 1269px;"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style=""></div></div></div>
+										<div class="elementor-repeater-item-f5p4cf8 swiper-slide swiper-slide-active" data-swiper-slide-index="0" style="width: 1269px;"><div class="swiper-slide-bg elementor-ken-burns--active" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style=""></div></div></div><div class="elementor-repeater-item-3b0c59b swiper-slide swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="1" style="width: 1269px;"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style=""></div></div></div>				<div class="elementor-repeater-item-f5p4cf8 swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="0" style="width: 1269px;"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style=""></div></div></div><div class="elementor-repeater-item-3b0c59b swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="1" style="width: 1269px;"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style=""></div></div></div></div>
+															<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 2"></span></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">اسلاید قبلی</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">اسلاید بعدی</span>
+						</div>
+												<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-a74744b elementor-section-full_width elementor-section-height-min-height elementor-section-items-stretch elementor-section-content-middle elementor-hidden-desktop elementor-section-height-default" data-id="a74744b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;none&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-242e6c3 elementor-hidden-desktop" data-id="242e6c3" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;gradient&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated e-swiper-container">
+								<div class="elementor-element elementor-element-082d982 elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides e-widget-swiper" data-id="082d982" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container swiper-container-initialized swiper-container-horizontal swiper-container-rtl" dir="rtl" data-animation="fadeInUp" style="cursor: grab;">
+				<div class="swiper-wrapper elementor-slides" style="transition-duration: 0ms;"><div class="elementor-repeater-item-f5p4cf8 swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-cafda6b swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"></div></div></div>
+										<div class="elementor-repeater-item-f5p4cf8 swiper-slide" data-swiper-slide-index="0"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-cafda6b swiper-slide" data-swiper-slide-index="1"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"></div></div></div>				<div class="elementor-repeater-item-f5p4cf8 swiper-slide swiper-slide-duplicate" data-swiper-slide-index="0"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"></div></div></div><div class="elementor-repeater-item-cafda6b swiper-slide swiper-slide-duplicate" data-swiper-slide-index="1"><div class="swiper-slide-bg" role="img"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents"></div></div></div></div>
+															<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev" role="button" tabindex="0" aria-label="Previous slide">
+							<i aria-hidden="true" class="eicon-chevron-right"></i>							<span class="elementor-screen-only">اسلاید قبلی</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next" role="button" tabindex="0" aria-label="Next slide">
+							<i aria-hidden="true" class="eicon-chevron-left"></i>							<span class="elementor-screen-only">اسلاید بعدی</span>
+						</div>
+												<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c00ca72" data-id="c00ca72" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;none&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f744d92 elementor-widget elementor-widget-heading" data-id="f744d92" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">باتری اوربیتال</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1b817e1 elementor-widget elementor-widget-heading" data-id="1b817e1" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">استارت قهرمانانه</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0174606 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="0174606" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ae4d79 elementor-widget elementor-widget-text-editor" data-id="3ae4d79" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>برند اوربیتال دارای کامل‌ترین سبد محصول باتری های خودرویی است. این باتری منحصربه فرد، به لحاظ شاخص های تولیدی و فنی و همچنین فاکتورهای کیفی در رتبه&nbsp; برتر باتری های تولیدی کشور قرار می‌گیرد. با خرید باتری اوربیتال قدرت و انرژی استارت خودرو شما تضمین می‌شود.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-ce1aba1 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="ce1aba1" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-91c7f63" data-id="91c7f63" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d311d11 elementor-widget elementor-widget-image" data-id="d311d11" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="92" height="92" src="./OrbitalSepahanBattery_files/arrow-down-square.png" class="attachment-large size-large wp-image-3495 entered lazyloaded" alt="" data-lazy-srcset="https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png 92w, https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square-80x80.png 80w, https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square-36x36.png 36w" data-lazy-sizes="(max-width: 92px) 100vw, 92px" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png" data-ll-status="loaded" sizes="(max-width: 92px) 100vw, 92px" srcset="https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png 92w, https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square-80x80.png 80w, https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square-36x36.png 36w"><noscript><img decoding="async" width="92" height="92" src="https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png" class="attachment-large size-large wp-image-3495" alt="" srcset="https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square.png 92w, https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square-80x80.png 80w, https://www.sepahanbattery.com/wp-content/uploads/2020/07/arrow-down-square-36x36.png 36w" sizes="(max-width: 92px) 100vw, 92px" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-e240df4 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e240df4" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b412f50" data-id="b412f50" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0cd21df elementor-widget elementor-widget-bdt-advanced-heading" data-id="0cd21df" data-element_type="widget" data-widget_type="bdt-advanced-heading.default">
+				<div class="elementor-widget-container">
+			<div id="0cd21df" class="bdt-ep-advanced-heading" data-settings="{&quot;titleMultiColor&quot;:&quot;no&quot;}"><h2 class="bdt-ep-advanced-heading-title"><span class="bdt-ep-advanced-heading-main-title"><span class="bdt-ep-advanced-heading-main-title-inner">با خرید باتری اوربیتال، منبع قدرت و انرژی خودرو تأمین می‌شود.</span></span></h2></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-932624e elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="932624e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-04c6078" data-id="04c6078" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-277bad6 elementor-widget elementor-widget-text-editor" data-id="277bad6" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>در میان برندهای مطرح باتری خودرو، برند اوربیتال کامل‌ترین سبد محصولات را به خود اختصاص داده است. خرید باتری اوربیتال سپاهان باتری، قدرت استارت خودرو شما را تضمین می‌کند. باتری های برند &nbsp;اوربیتال، از نظر تکنولوژی و شکل ظاهری، با باتری های خارجی خودرو قابلیت رقابت دارند. باتری‌های این برند برای افرادی با ریسک پذیری بالا که دوستدار قدرت بوده و همواره به دنبال تجربه لحظه های جدید و هیجان انگیز هستند مناسب است.</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-002b0b5 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="002b0b5" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6e6da05" data-id="6e6da05" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5136767 elementor-widget elementor-widget-video" data-id="5136767" data-element_type="widget" data-settings="{&quot;video_type&quot;:&quot;hosted&quot;,&quot;controls&quot;:&quot;yes&quot;}" data-widget_type="video.default">
+				<div class="elementor-widget-container">
+					<div class="e-hosted-video elementor-wrapper elementor-open-inline">
+					<video class="elementor-video" src="https://www.sepahanbattery.com/wp-content/uploads/2023/12/orbital-1_7log.mp4" controls="" preload="metadata" controlslist="nodownload" poster="https://www.sepahanbattery.com/wp-content/uploads/2020/09/Screenshot-279.gif" __idm_id__="303105"></video>
+				</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7f224df elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="7f224df" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b336df2" data-id="b336df2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2a01a3c elementor-widget elementor-widget-heading" data-id="2a01a3c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h3 class="elementor-heading-title elementor-size-default">با دانلود کاتالوگ، انواع مدل های مختلف باتری اوربیتال پاورپلاس را با جزئیات کامل ببینید.</h3>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bc243e4 elementor-view-default elementor-position-top elementor-mobile-position-top elementor-widget elementor-widget-icon-box" data-id="bc243e4" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a href="https://www.sepahanbattery.com/wp-content/uploads/2023/08/ORBITAL-POWER-PLUS-1.pdf" class="elementor-icon elementor-animation-shrink" tabindex="-1">
+				<i aria-hidden="true" class="fas fa-download"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<h3 class="elementor-icon-box-title">
+					<a href="https://www.sepahanbattery.com/wp-content/uploads/2023/08/ORBITAL-POWER-PLUS-1.pdf">
+						برای دانلود کاتالوگ کلیک کنید					</a>
+				</h3>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-55c7719 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="55c7719" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-dd4972c" data-id="dd4972c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-52e60db elementor-widget elementor-widget-image" data-id="52e60db" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="92" height="92" src="./OrbitalSepahanBattery_files/arrow-down-opti.png" class="attachment-large size-large wp-image-5815 entered lazyloaded" alt="خرید باتری خودرو" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2020/08/arrow-down-opti.png" data-ll-status="loaded"><noscript><img decoding="async" width="92" height="92" src="https://www.sepahanbattery.com/wp-content/uploads/2020/08/arrow-down-opti.png" class="attachment-large size-large wp-image-5815" alt="خرید باتری خودرو" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4f368f7 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4f368f7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4a423a" data-id="f4a423a" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f729861 elementor-widget elementor-widget-heading" data-id="f729861" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">انواع باتری‌ها در برند اوربیتال</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6e2c9a3 elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6e2c9a3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-d85f1ad" data-id="d85f1ad" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1706cd4 elementor-widget elementor-widget-text-editor" data-id="1706cd4" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>برای مشاهده محصولات و جزئیات انواع مختلف باتری اوربیتال، روی تصویر مورد نظر کلیک کنید</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-2635991 elementor-section-full_width elementor-hidden-desktop elementor-hidden-tablet elementor-hidden-mobile elementor-section-height-default elementor-section-height-default" data-id="2635991" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-wider">
+					<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-3de78c9" data-id="3de78c9" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-6a808c6" data-id="6a808c6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d53c4e7 elementor-widget elementor-widget-image" data-id="d53c4e7" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/%d9%be%d8%b1%db%8c%d9%85%db%8c%d9%88%d9%85/" target="_blank">
+							<img decoding="async" width="500" height="500" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20500%20500&#39;%3E%3C/svg%3E" class="attachment-full size-full wp-image-30378" alt="" data-lazy-srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/1.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/1-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/1-80x80.jpg 80w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/1.jpg"><noscript><img loading="lazy" decoding="async" width="500" height="500" src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/1.jpg" class="attachment-full size-full wp-image-30378" alt="" srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/1.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/1-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/1-80x80.jpg 80w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-62e99a3 elementor-widget elementor-widget-heading" data-id="62e99a3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/%d9%be%d8%b1%db%8c%d9%85%db%8c%d9%88%d9%85/">پرمیوم</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-a46ecf1" data-id="a46ecf1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-dcbfefb elementor-widget elementor-widget-image" data-id="dcbfefb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84/" target="_blank">
+							<img decoding="async" width="500" height="500" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20500%20500&#39;%3E%3C/svg%3E" class="attachment-full size-full wp-image-30381" alt="" data-lazy-srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/4.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/4-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/4-80x80.jpg 80w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/4.jpg"><noscript><img loading="lazy" decoding="async" width="500" height="500" src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/4.jpg" class="attachment-full size-full wp-image-30381" alt="" srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/4.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/4-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/4-80x80.jpg 80w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-c391b79 elementor-widget elementor-widget-heading" data-id="c391b79" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84/">متداول</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-d149579" data-id="d149579" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7d8d61d elementor-widget elementor-widget-image" data-id="7d8d61d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/%d8%aa%d8%b1%d9%88%d9%be%db%8c%da%a9%d8%a7%d9%84/" target="_blank">
+							<img decoding="async" width="500" height="500" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20500%20500&#39;%3E%3C/svg%3E" class="attachment-full size-full wp-image-30384" alt="" data-lazy-srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/2.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/2-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/2-80x80.jpg 80w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/2.jpg"><noscript><img loading="lazy" decoding="async" width="500" height="500" src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/2.jpg" class="attachment-full size-full wp-image-30384" alt="" srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/2.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/2-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/2-80x80.jpg 80w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-d06552e elementor-widget elementor-widget-heading" data-id="d06552e" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/%d8%aa%d8%b1%d9%88%d9%be%db%8c%da%a9%d8%a7%d9%84/">تروپیکال</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-8bf832c" data-id="8bf832c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ee26ba4 elementor-widget elementor-widget-image" data-id="ee26ba4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/efb/" target="_blank">
+							<img decoding="async" width="500" height="500" src="data:image/svg+xml,%3Csvg%20xmlns=&#39;http://www.w3.org/2000/svg&#39;%20viewBox=&#39;0%200%20500%20500&#39;%3E%3C/svg%3E" class="attachment-full size-full wp-image-30387" alt="" data-lazy-srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/3.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/3-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/3-80x80.jpg 80w" data-lazy-sizes="(max-width: 500px) 100vw, 500px" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/3.jpg"><noscript><img loading="lazy" decoding="async" width="500" height="500" src="https://www.sepahanbattery.com/wp-content/uploads/2022/10/3.jpg" class="attachment-full size-full wp-image-30387" alt="" srcset="https://www.sepahanbattery.com/wp-content/uploads/2022/10/3.jpg 500w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/3-300x300.jpg 300w, https://www.sepahanbattery.com/wp-content/uploads/2022/10/3-80x80.jpg 80w" sizes="(max-width: 500px) 100vw, 500px" /></noscript>								</a>
+															</div>
+				</div>
+				<div class="elementor-element elementor-element-b4a77f4 elementor-widget elementor-widget-heading" data-id="b4a77f4" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/efb/">EFB</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-16 elementor-top-column elementor-element elementor-element-ff043e2" data-id="ff043e2" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-aea25c9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="aea25c9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-56505a6" data-id="56505a6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c0f29c7 elementor-widget elementor-widget-bdt-advanced-heading" data-id="c0f29c7" data-element_type="widget" data-widget_type="bdt-advanced-heading.default">
+				<div class="elementor-widget-container">
+			<div id="c0f29c7" class="bdt-ep-advanced-heading" data-settings="{&quot;titleMultiColor&quot;:&quot;no&quot;}"><h2 class="bdt-ep-advanced-heading-title"><span class="bdt-ep-advanced-heading-main-title"><span class="bdt-ep-advanced-heading-main-title-inner">برای مشاهده انواع باتری ها برند مورد نظر را انتخاب کنید</span></span></h2></div>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-dc73031 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="dc73031" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-b2cb3e1" data-id="b2cb3e1" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-63fceff" data-id="63fceff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f06bfdb elementor-widget elementor-widget-image" data-id="f06bfdb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d8%aa%d9%85%db%8c%da%a9/">
+							<img decoding="async" width="800" height="249" src="./OrbitalSepahanBattery_files/3-3.png" class="elementor-animation-shrink attachment-large size-large wp-image-5681 entered lazyloaded" alt="خرید باتری ماشین اتمیک سپاهان باتری" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2020/08/3-3.png" data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" width="800" height="249" src="https://www.sepahanbattery.com/wp-content/uploads/2020/08/3-3.png" class="elementor-animation-shrink attachment-large size-large wp-image-5681" alt="خرید باتری ماشین اتمیک سپاهان باتری" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-d88dc4c" data-id="d88dc4c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9bc623e elementor-widget elementor-widget-image" data-id="9bc623e" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="800" height="249" src="./OrbitalSepahanBattery_files/2-1.png" class="attachment-large size-large wp-image-5680 entered lazyloaded" alt="خرید باتری خودرو-صنعتی اوربیتال سپاهان باتری" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/2020/08/2-1.png" data-ll-status="loaded"><noscript><img loading="lazy" decoding="async" width="800" height="249" src="https://www.sepahanbattery.com/wp-content/uploads/2020/08/2-1.png" class="attachment-large size-large wp-image-5680" alt="خرید باتری خودرو-صنعتی اوربیتال سپاهان باتری" /></noscript>															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-f5a5799" data-id="f5a5799" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-24b2c8c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="24b2c8c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-82bde77" data-id="82bde77" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-455e0dc elementor-widget elementor-widget-spacer" data-id="455e0dc" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+				<div class="post-tags">
+					</div>
+			</div>
+
+	
+</main>
+
+			<footer data-elementor-type="footer" data-elementor-id="4909" class="elementor elementor-4909 elementor-location-footer">
+								<footer class="elementor-section elementor-top-section elementor-element elementor-element-ad2b805 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="ad2b805" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;stretch_section&quot;:&quot;section-stretched&quot;}" style="width: 1903px; right: 0px;">
+						<div class="elementor-container elementor-column-gap-wider">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-46d9a50" data-id="46d9a50" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-238d995 elementor-widget elementor-widget-image" data-id="238d995" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.sepahanbattery.com/">
+							<img src="./OrbitalSepahanBattery_files/logo-200-light-ou1stxmyxdgyprhdgfo82gwje4guhruhwhrth599k4.png" title="سپاهان باتری بزرگترین تولیدکننده باتری ماشین در بازار" alt="سپاهان باتری بزرگترین تولیدکننده باتری ماشین در بازار" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/logo-200-light-ou1stxmyxdgyprhdgfo82gwje4guhruhwhrth599k4.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/logo-200-light-ou1stxmyxdgyprhdgfo82gwje4guhruhwhrth599k4.png" title="سپاهان باتری بزرگترین تولیدکننده باتری ماشین در بازار" alt="سپاهان باتری بزرگترین تولیدکننده باتری ماشین در بازار" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+				<section class="elementor-section elementor-inner-section elementor-element elementor-element-bdc0f2b elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="bdc0f2b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-84dac44" data-id="84dac44" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-02af867" data-id="02af867" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-203bdf5 elementor-widget elementor-widget-image" data-id="203bdf5" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.instagram.com/SepahanBattery/">
+							<img src="./OrbitalSepahanBattery_files/1-1-ou1ikfazawlqmqyr2h7jrwln8bh253lhswnnf971oa.png" title="instagram" alt="اینستاگرام سپاهان باتری" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/1-1-ou1ikfazawlqmqyr2h7jrwln8bh253lhswnnf971oa.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/1-1-ou1ikfazawlqmqyr2h7jrwln8bh253lhswnnf971oa.png" title="instagram" alt="اینستاگرام سپاهان باتری" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-2284ced" data-id="2284ced" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3afda47 elementor-widget elementor-widget-image" data-id="3afda47" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="http://www.t.me/SepahanBattery1396">
+							<img src="./OrbitalSepahanBattery_files/3-1-ou1ik5wlek8venceld5a2yz1agre04k6fm4smhkzei.png" title="telegram" alt="تلگرام سپاهان باتری" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/3-1-ou1ik5wlek8venceld5a2yz1agre04k6fm4smhkzei.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/3-1-ou1ik5wlek8venceld5a2yz1agre04k6fm4smhkzei.png" title="telegram" alt="تلگرام سپاهان باتری" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-bb8af14" data-id="bb8af14" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-baec407 elementor-widget elementor-widget-image" data-id="baec407" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.linkedin.com/authwall?trk=gf&amp;trkInfo=AQG9E9xqo5sj1AAAAXM92WRgHvS5ENYLUrgIK6Og-R1HL3-v7Zx8IH_zCO3hllX40jj2Ak1Firm5sH0MROzBCEGuZ7ppuEa5GIlh4SwLUPqU1ElZ5XsJ1sg56EG3MslOHtSuwPs=&amp;originalReferer=http://sepahanbattery.com/fa/home&amp;sessionRedirect=https%3A%2F%2Fwww.linkedin.com%2Fcompany%2Fsepahan-battery%2F">
+							<img src="./OrbitalSepahanBattery_files/2-ou1ik9ny5we0p36xzerscy0vo08uuwz3s4qqjlfepm.png" title="linkedin" alt="لینکدین سپاهان باتری" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/2-ou1ik9ny5we0p36xzerscy0vo08uuwz3s4qqjlfepm.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/2-ou1ik9ny5we0p36xzerscy0vo08uuwz3s4qqjlfepm.png" title="linkedin" alt="لینکدین سپاهان باتری" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-71b190e" data-id="71b190e" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-9e43faa elementor-widget elementor-widget-image" data-id="9e43faa" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.facebook.com/Sepahanbatteryofficial/">
+							<img src="./OrbitalSepahanBattery_files/f-p-oyhpzl6r5qjdagxc9gme0wwp27m2pr1kjya3webwvu.png" title="facebook" alt="facebook" data-lazy-src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/f-p-oyhpzl6r5qjdagxc9gme0wwp27m2pr1kjya3webwvu.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="https://www.sepahanbattery.com/wp-content/uploads/elementor/thumbs/f-p-oyhpzl6r5qjdagxc9gme0wwp27m2pr1kjya3webwvu.png" title="facebook" alt="facebook" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-4f0de94" data-id="4f0de94" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-a00beae elementor-widget elementor-widget-image" data-id="a00beae" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+																<a href="https://www.aparat.com/sepahanbattery">
+							<img src="./OrbitalSepahanBattery_files/4-1.png" title="" alt="" data-lazy-src="http://www.sepahanbattery.com/wp-content/uploads/2020/08/4-1.png" data-ll-status="loaded" class="entered lazyloaded"><noscript><img src="http://www.sepahanbattery.com/wp-content/uploads/2020/08/4-1.png" title="" alt="" loading="lazy" /></noscript>								</a>
+															</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-14 elementor-inner-column elementor-element elementor-element-f82cae2" data-id="f82cae2" data-element_type="column">
+			<div class="elementor-widget-wrap">
+									</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0bfe9dc" data-id="0bfe9dc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ff745fb elementor-widget elementor-widget-heading" data-id="ff745fb" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">ارتباط با سپاهان باتری</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4001b00 elementor-widget elementor-widget-text-editor" data-id="4001b00" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #ffffff;">ایمیل:&nbsp;<a style="color: #ffffff;" href="mailto:info@sepahanbattery.com">info@sepahanbattery.com</a></span></p><p><span style="color: #ffffff;">تلفن:<a style="color: #ffffff;" href="tel:09690"> 09690&nbsp;</a></span><br><span style="color: #ffffff;">نمابر:&nbsp;<a style="font-family: arial, helvetica, sans-serif; color: #ffffff;" href="tel:03132689087">03132689087</a></span></p><p><span style="color: #ffffff;">دفتر مرکزی: اصفهان، خیابان مشتاق دوم، خیابان حمزه اصفهانی جنوبی، بن‌بست شهید گلشیرازی</span><br><span style="color: #ffffff;">آدرس کارخانه: اصفهان، شهرک صنعتی اشترجان، خیابان چهاردهم (مجتمع صنعتی سپاهان باتری)</span></p>						</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-df06d12" data-id="df06d12" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4361f9c elementor-widget elementor-widget-heading" data-id="4361f9c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">وب سایت های زیر مجموعه </h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-391f17b elementor-widget elementor-widget-text-editor" data-id="391f17b" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #e7e2e2e3;"><a style="color: #e7e2e2e3;" href="http://www.melcologistic.com/">توزیع و حمل و نقل خاورمیانه</a>‌<br></span><span style="color: #e7e2e2e3;"><a style="color: #e7e2e2e3;" href="http://3pco.info/">پارسیان پارت</a></span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-99b8268 elementor-widget elementor-widget-heading" data-id="99b8268" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%da%af%d8%a7%d8%b1%d8%a7%d9%86%d8%aa%db%8c/">گارانتی باتری</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e67ec26 elementor-widget elementor-widget-heading" data-id="e67ec26" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://jazbsep.acctechco.com/fa-IR/Sepahan/Career/1">استخدام</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-0cf4418 elementor-widget elementor-widget-heading" data-id="0cf4418" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="http://centerd.sepahanbattery.com:85/fa-IR/Login?cpy=001">پرتال تامین کنندگان</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-42527ba" data-id="42527ba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-e244ba2 elementor-widget elementor-widget-heading" data-id="e244ba2" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">درباره ما</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-544d95a elementor-widget elementor-widget-text-editor" data-id="544d95a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p><span style="color: #7a7a7a;"><a style="color: #e7e2e2e3;" href="https://www.sepahanbattery.com/%d8%af%d8%b1%d8%a8%d8%a7%d8%b1%d9%87-%d9%85%d8%a7/">درباره سپاهان باتری<br></a></span><span style="color: #7a7a7a;"><a style="color: #e7e2e2e3;" href="https://www.sepahanbattery.com/%da%86%d8%b4%d9%85-%d8%a7%d9%86%d8%af%d8%a7%d8%b2-%d9%88-%d9%85%d8%a7%d9%85%d9%88%d8%b1%db%8c%d8%aa/">چشم انداز و ماموریت<br></a></span><span style="color: #7a7a7a;"><a style="color: #e7e2e2e3;" href="https://www.sepahanbattery.com/%da%af%d9%88%d8%a7%d9%87%db%8c%d9%86%d8%a7%d9%85%d9%87-%d9%87%d8%a7-%d9%88-%d8%a7%d9%81%d8%aa%d8%ae%d8%a7%d8%b1%d8%a7%d8%aa/">گواهینامه‌ها و افتخارات</a>&nbsp;</span></p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-c94c910 elementor-widget elementor-widget-heading" data-id="c94c910" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d8%aa%d9%85%d8%a7%d8%b3-%d8%a8%d8%a7-%d9%85%d8%a7/">تماس با ما</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e5eb53a elementor-widget elementor-widget-heading" data-id="e5eb53a" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d8%b3%d9%88%d8%a7%d9%84%d8%a7%d8%aa-%d9%85%d8%aa%d8%af%d8%a7%d9%88%d9%84-%d8%b3%d9%be%d8%a7%d9%87%d8%a7%d9%86-%d8%a8%d8%a7%d8%aa%d8%b1%db%8c/">سوالات متداول</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-d2010b6 elementor-widget elementor-widget-heading" data-id="d2010b6" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d8%b3%d8%a7%d9%85%d8%a7%d9%86%d9%87-%d9%87%d9%85%db%8c%d8%a7%d8%b1/">سامانه همیار</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-012be3b elementor-widget elementor-widget-heading" data-id="012be3b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://esales.sepahanbattery.com/">خرید اینترنتی باتری</a></h2>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-0123f73" data-id="0123f73" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1d573b5 elementor-widget elementor-widget-heading" data-id="1d573b5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/">محصولات</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-f3c31e1 elementor-widget elementor-widget-text-editor" data-id="f3c31e1" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>باتری خودرویی<br>&nbsp; باتری اوربیتال<br><span style="color: #7a7a7a;">&nbsp; &nbsp; <a style="color: #e7e2e2e3;" href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84/">باتری اوربیتال استارت-استاپ<br>&nbsp; &nbsp; باتری اوربیتال پاورپلاس<br><br><span style="color: #ffffff;">&nbsp; </span></a><a style="color: #ffffff;" href="https://www.sepahanbattery.com/%d9%85%d8%ad%d8%b5%d9%88%d9%84%d8%a7%d8%aa/%d8%a8%d8%a7%d8%aa%d8%b1%db%8c-%d8%a7%d8%aa%d9%85%db%8c%da%a9/">باتری اتمیک</a></span><br></p><p>باتری صنعتی<br><span style="color: #7a7a7a;"><a style="color: #e7e2e2e3;" href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-ups/">ups باتری<br></a></span><span style="color: #ffffff;"><a style="color: #ffffff;" href="https://www.sepahanbattery.com/%d8%a7%d9%88%d8%b1%d8%a8%db%8c%d8%aa%d8%a7%d9%84-%d8%b5%d9%86%d8%b9%d8%aa%db%8c-%d8%b3%d9%88%d9%84%d8%a7%d8%b1/">باتری سولار</a></span></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</footer>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8b1dc55 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="8b1dc55" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-0b803b4" data-id="0b803b4" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-abaabc5 elementor-widget elementor-widget-text-editor" data-id="abaabc5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>تهیه و طراحی شده توسط<span style="color: #808080;"> <a style="color: #808080;" href="https://rasaa.co/"><span style="color: #333333;">گروه</span> <span style="color: #333333;">ارتباطات و رسانه رسا</span></a> </span>– کلیه حقوق مادی و معنوی محفوظ است. © 2022</p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</footer>
+		
+<link data-minify="1" rel="stylesheet" id="ep-search-css" href="./OrbitalSepahanBattery_files/ep-search.rtl.css" media="all">
+<link data-minify="1" rel="stylesheet" id="ep-advanced-heading-css" href="./OrbitalSepahanBattery_files/ep-advanced-heading.rtl.css" media="all">
+<link rel="stylesheet" id="e-animations-css" href="./OrbitalSepahanBattery_files/animations.min.css" media="all">
+<script id="awsm-team-js-extra">
+var awsmTeamPublic = {"ajaxurl":"https:\/\/www.sepahanbattery.com\/wp-admin\/admin-ajax.php","deep_linking":{"enable":"enable","member":{"prefix":"member","suffix":"info"},"team":{"prefix":"team","suffix":"info"}},"scripts_src":"https:\/\/www.sepahanbattery.com\/wp-content\/plugins\/awsm-team-pro\/js"};
+</script>
+<script id="awsm-team-js" defer="" src="./OrbitalSepahanBattery_files/team.min.js.download" data-rocket-status="executed"></script>
+<script id="rocket-browser-checker-js-after" src="data:text/javascript;base64,CiJ1c2Ugc3RyaWN0Ijt2YXIgX2NyZWF0ZUNsYXNzPWZ1bmN0aW9uKCl7ZnVuY3Rpb24gZGVmaW5lUHJvcGVydGllcyh0YXJnZXQscHJvcHMpe2Zvcih2YXIgaT0wO2k8cHJvcHMubGVuZ3RoO2krKyl7dmFyIGRlc2NyaXB0b3I9cHJvcHNbaV07ZGVzY3JpcHRvci5lbnVtZXJhYmxlPWRlc2NyaXB0b3IuZW51bWVyYWJsZXx8ITEsZGVzY3JpcHRvci5jb25maWd1cmFibGU9ITAsInZhbHVlImluIGRlc2NyaXB0b3ImJihkZXNjcmlwdG9yLndyaXRhYmxlPSEwKSxPYmplY3QuZGVmaW5lUHJvcGVydHkodGFyZ2V0LGRlc2NyaXB0b3Iua2V5LGRlc2NyaXB0b3IpfX1yZXR1cm4gZnVuY3Rpb24oQ29uc3RydWN0b3IscHJvdG9Qcm9wcyxzdGF0aWNQcm9wcyl7cmV0dXJuIHByb3RvUHJvcHMmJmRlZmluZVByb3BlcnRpZXMoQ29uc3RydWN0b3IucHJvdG90eXBlLHByb3RvUHJvcHMpLHN0YXRpY1Byb3BzJiZkZWZpbmVQcm9wZXJ0aWVzKENvbnN0cnVjdG9yLHN0YXRpY1Byb3BzKSxDb25zdHJ1Y3Rvcn19KCk7ZnVuY3Rpb24gX2NsYXNzQ2FsbENoZWNrKGluc3RhbmNlLENvbnN0cnVjdG9yKXtpZighKGluc3RhbmNlIGluc3RhbmNlb2YgQ29uc3RydWN0b3IpKXRocm93IG5ldyBUeXBlRXJyb3IoIkNhbm5vdCBjYWxsIGEgY2xhc3MgYXMgYSBmdW5jdGlvbiIpfXZhciBSb2NrZXRCcm93c2VyQ29tcGF0aWJpbGl0eUNoZWNrZXI9ZnVuY3Rpb24oKXtmdW5jdGlvbiBSb2NrZXRCcm93c2VyQ29tcGF0aWJpbGl0eUNoZWNrZXIob3B0aW9ucyl7X2NsYXNzQ2FsbENoZWNrKHRoaXMsUm9ja2V0QnJvd3NlckNvbXBhdGliaWxpdHlDaGVja2VyKSx0aGlzLnBhc3NpdmVTdXBwb3J0ZWQ9ITEsdGhpcy5fY2hlY2tQYXNzaXZlT3B0aW9uKHRoaXMpLHRoaXMub3B0aW9ucz0hIXRoaXMucGFzc2l2ZVN1cHBvcnRlZCYmb3B0aW9uc31yZXR1cm4gX2NyZWF0ZUNsYXNzKFJvY2tldEJyb3dzZXJDb21wYXRpYmlsaXR5Q2hlY2tlcixbe2tleToiX2NoZWNrUGFzc2l2ZU9wdGlvbiIsdmFsdWU6ZnVuY3Rpb24oc2VsZil7dHJ5e3ZhciBvcHRpb25zPXtnZXQgcGFzc2l2ZSgpe3JldHVybiEoc2VsZi5wYXNzaXZlU3VwcG9ydGVkPSEwKX19O3dpbmRvdy5hZGRFdmVudExpc3RlbmVyKCJ0ZXN0IixudWxsLG9wdGlvbnMpLHdpbmRvdy5yZW1vdmVFdmVudExpc3RlbmVyKCJ0ZXN0IixudWxsLG9wdGlvbnMpfWNhdGNoKGVycil7c2VsZi5wYXNzaXZlU3VwcG9ydGVkPSExfX19LHtrZXk6ImluaXRSZXF1ZXN0SWRsZUNhbGxiYWNrIix2YWx1ZTpmdW5jdGlvbigpeyExIGluIHdpbmRvdyYmKHdpbmRvdy5yZXF1ZXN0SWRsZUNhbGxiYWNrPWZ1bmN0aW9uKGNiKXt2YXIgc3RhcnQ9RGF0ZS5ub3coKTtyZXR1cm4gc2V0VGltZW91dChmdW5jdGlvbigpe2NiKHtkaWRUaW1lb3V0OiExLHRpbWVSZW1haW5pbmc6ZnVuY3Rpb24oKXtyZXR1cm4gTWF0aC5tYXgoMCw1MC0oRGF0ZS5ub3coKS1zdGFydCkpfX0pfSwxKX0pLCExIGluIHdpbmRvdyYmKHdpbmRvdy5jYW5jZWxJZGxlQ2FsbGJhY2s9ZnVuY3Rpb24oaWQpe3JldHVybiBjbGVhclRpbWVvdXQoaWQpfSl9fSx7a2V5OiJpc0RhdGFTYXZlck1vZGVPbiIsdmFsdWU6ZnVuY3Rpb24oKXtyZXR1cm4iY29ubmVjdGlvbiJpbiBuYXZpZ2F0b3ImJiEwPT09bmF2aWdhdG9yLmNvbm5lY3Rpb24uc2F2ZURhdGF9fSx7a2V5OiJzdXBwb3J0c0xpbmtQcmVmZXRjaCIsdmFsdWU6ZnVuY3Rpb24oKXt2YXIgZWxlbT1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7cmV0dXJuIGVsZW0ucmVsTGlzdCYmZWxlbS5yZWxMaXN0LnN1cHBvcnRzJiZlbGVtLnJlbExpc3Quc3VwcG9ydHMoInByZWZldGNoIikmJndpbmRvdy5JbnRlcnNlY3Rpb25PYnNlcnZlciYmImlzSW50ZXJzZWN0aW5nImluIEludGVyc2VjdGlvbk9ic2VydmVyRW50cnkucHJvdG90eXBlfX0se2tleToiaXNTbG93Q29ubmVjdGlvbiIsdmFsdWU6ZnVuY3Rpb24oKXtyZXR1cm4iY29ubmVjdGlvbiJpbiBuYXZpZ2F0b3ImJiJlZmZlY3RpdmVUeXBlImluIG5hdmlnYXRvci5jb25uZWN0aW9uJiYoIjJnIj09PW5hdmlnYXRvci5jb25uZWN0aW9uLmVmZmVjdGl2ZVR5cGV8fCJzbG93LTJnIj09PW5hdmlnYXRvci5jb25uZWN0aW9uLmVmZmVjdGl2ZVR5cGUpfX1dKSxSb2NrZXRCcm93c2VyQ29tcGF0aWJpbGl0eUNoZWNrZXJ9KCk7Cg==" data-rocket-status="executed">
+"use strict";var _createClass=function(){function defineProperties(target,props){for(var i=0;i<props.length;i++){var descriptor=props[i];descriptor.enumerable=descriptor.enumerable||!1,descriptor.configurable=!0,"value"in descriptor&&(descriptor.writable=!0),Object.defineProperty(target,descriptor.key,descriptor)}}return function(Constructor,protoProps,staticProps){return protoProps&&defineProperties(Constructor.prototype,protoProps),staticProps&&defineProperties(Constructor,staticProps),Constructor}}();function _classCallCheck(instance,Constructor){if(!(instance instanceof Constructor))throw new TypeError("Cannot call a class as a function")}var RocketBrowserCompatibilityChecker=function(){function RocketBrowserCompatibilityChecker(options){_classCallCheck(this,RocketBrowserCompatibilityChecker),this.passiveSupported=!1,this._checkPassiveOption(this),this.options=!!this.passiveSupported&&options}return _createClass(RocketBrowserCompatibilityChecker,[{key:"_checkPassiveOption",value:function(self){try{var options={get passive(){return!(self.passiveSupported=!0)}};window.addEventListener("test",null,options),window.removeEventListener("test",null,options)}catch(err){self.passiveSupported=!1}}},{key:"initRequestIdleCallback",value:function(){!1 in window&&(window.requestIdleCallback=function(cb){var start=Date.now();return setTimeout(function(){cb({didTimeout:!1,timeRemaining:function(){return Math.max(0,50-(Date.now()-start))}})},1)}),!1 in window&&(window.cancelIdleCallback=function(id){return clearTimeout(id)})}},{key:"isDataSaverModeOn",value:function(){return"connection"in navigator&&!0===navigator.connection.saveData}},{key:"supportsLinkPrefetch",value:function(){var elem=document.createElement("link");return elem.relList&&elem.relList.supports&&elem.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype}},{key:"isSlowConnection",value:function(){return"connection"in navigator&&"effectiveType"in navigator.connection&&("2g"===navigator.connection.effectiveType||"slow-2g"===navigator.connection.effectiveType)}}]),RocketBrowserCompatibilityChecker}();
+</script>
+<script id="rocket-preload-links-js-extra">
+var RocketPreloadLinksConfig = {"excludeUris":"\/(?:.+\/)?feed(?:\/(?:.+\/?)?)?$|\/(?:.+\/)?embed\/|\/(index.php\/)?(.*)wp-json(\/.*|$)|\/refer\/|\/go\/|\/recommend\/|\/recommends\/","usesTrailingSlash":"1","imageExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php","fileExt":"jpg|jpeg|gif|png|tiff|bmp|webp|avif|pdf|doc|docx|xls|xlsx|php|html|htm","siteUrl":"https:\/\/www.sepahanbattery.com","onHoverDelay":"100","rateThrottle":"3"};
+</script>
+<script id="rocket-preload-links-js-after" src="data:text/javascript;base64,CihmdW5jdGlvbigpIHsKInVzZSBzdHJpY3QiO3ZhciByPSJmdW5jdGlvbiI9PXR5cGVvZiBTeW1ib2wmJiJzeW1ib2wiPT10eXBlb2YgU3ltYm9sLml0ZXJhdG9yP2Z1bmN0aW9uKGUpe3JldHVybiB0eXBlb2YgZX06ZnVuY3Rpb24oZSl7cmV0dXJuIGUmJiJmdW5jdGlvbiI9PXR5cGVvZiBTeW1ib2wmJmUuY29uc3RydWN0b3I9PT1TeW1ib2wmJmUhPT1TeW1ib2wucHJvdG90eXBlPyJzeW1ib2wiOnR5cGVvZiBlfSxlPWZ1bmN0aW9uKCl7ZnVuY3Rpb24gaShlLHQpe2Zvcih2YXIgbj0wO248dC5sZW5ndGg7bisrKXt2YXIgaT10W25dO2kuZW51bWVyYWJsZT1pLmVudW1lcmFibGV8fCExLGkuY29uZmlndXJhYmxlPSEwLCJ2YWx1ZSJpbiBpJiYoaS53cml0YWJsZT0hMCksT2JqZWN0LmRlZmluZVByb3BlcnR5KGUsaS5rZXksaSl9fXJldHVybiBmdW5jdGlvbihlLHQsbil7cmV0dXJuIHQmJmkoZS5wcm90b3R5cGUsdCksbiYmaShlLG4pLGV9fSgpO2Z1bmN0aW9uIGkoZSx0KXtpZighKGUgaW5zdGFuY2VvZiB0KSl0aHJvdyBuZXcgVHlwZUVycm9yKCJDYW5ub3QgY2FsbCBhIGNsYXNzIGFzIGEgZnVuY3Rpb24iKX12YXIgdD1mdW5jdGlvbigpe2Z1bmN0aW9uIG4oZSx0KXtpKHRoaXMsbiksdGhpcy5icm93c2VyPWUsdGhpcy5jb25maWc9dCx0aGlzLm9wdGlvbnM9dGhpcy5icm93c2VyLm9wdGlvbnMsdGhpcy5wcmVmZXRjaGVkPW5ldyBTZXQsdGhpcy5ldmVudFRpbWU9bnVsbCx0aGlzLnRocmVzaG9sZD0xMTExLHRoaXMubnVtT25Ib3Zlcj0wfXJldHVybiBlKG4sW3trZXk6ImluaXQiLHZhbHVlOmZ1bmN0aW9uKCl7IXRoaXMuYnJvd3Nlci5zdXBwb3J0c0xpbmtQcmVmZXRjaCgpfHx0aGlzLmJyb3dzZXIuaXNEYXRhU2F2ZXJNb2RlT24oKXx8dGhpcy5icm93c2VyLmlzU2xvd0Nvbm5lY3Rpb24oKXx8KHRoaXMucmVnZXg9e2V4Y2x1ZGVVcmlzOlJlZ0V4cCh0aGlzLmNvbmZpZy5leGNsdWRlVXJpcywiaSIpLGltYWdlczpSZWdFeHAoIi4oIit0aGlzLmNvbmZpZy5pbWFnZUV4dCsiKSQiLCJpIiksZmlsZUV4dDpSZWdFeHAoIi4oIit0aGlzLmNvbmZpZy5maWxlRXh0KyIpJCIsImkiKX0sdGhpcy5faW5pdExpc3RlbmVycyh0aGlzKSl9fSx7a2V5OiJfaW5pdExpc3RlbmVycyIsdmFsdWU6ZnVuY3Rpb24oZSl7LTE8dGhpcy5jb25maWcub25Ib3ZlckRlbGF5JiZkb2N1bWVudC5hZGRFdmVudExpc3RlbmVyKCJtb3VzZW92ZXIiLGUubGlzdGVuZXIuYmluZChlKSxlLmxpc3RlbmVyT3B0aW9ucyksZG9jdW1lbnQuYWRkRXZlbnRMaXN0ZW5lcigibW91c2Vkb3duIixlLmxpc3RlbmVyLmJpbmQoZSksZS5saXN0ZW5lck9wdGlvbnMpLGRvY3VtZW50LmFkZEV2ZW50TGlzdGVuZXIoInRvdWNoc3RhcnQiLGUubGlzdGVuZXIuYmluZChlKSxlLmxpc3RlbmVyT3B0aW9ucyl9fSx7a2V5OiJsaXN0ZW5lciIsdmFsdWU6ZnVuY3Rpb24oZSl7dmFyIHQ9ZS50YXJnZXQuY2xvc2VzdCgiYSIpLG49dGhpcy5fcHJlcGFyZVVybCh0KTtpZihudWxsIT09bilzd2l0Y2goZS50eXBlKXtjYXNlIm1vdXNlZG93biI6Y2FzZSJ0b3VjaHN0YXJ0Ijp0aGlzLl9hZGRQcmVmZXRjaExpbmsobik7YnJlYWs7Y2FzZSJtb3VzZW92ZXIiOnRoaXMuX2Vhcmx5UHJlZmV0Y2godCxuLCJtb3VzZW91dCIpfX19LHtrZXk6Il9lYXJseVByZWZldGNoIix2YWx1ZTpmdW5jdGlvbih0LGUsbil7dmFyIGk9dGhpcyxyPXNldFRpbWVvdXQoZnVuY3Rpb24oKXtpZihyPW51bGwsMD09PWkubnVtT25Ib3ZlcilzZXRUaW1lb3V0KGZ1bmN0aW9uKCl7cmV0dXJuIGkubnVtT25Ib3Zlcj0wfSwxZTMpO2Vsc2UgaWYoaS5udW1PbkhvdmVyPmkuY29uZmlnLnJhdGVUaHJvdHRsZSlyZXR1cm47aS5udW1PbkhvdmVyKyssaS5fYWRkUHJlZmV0Y2hMaW5rKGUpfSx0aGlzLmNvbmZpZy5vbkhvdmVyRGVsYXkpO3QuYWRkRXZlbnRMaXN0ZW5lcihuLGZ1bmN0aW9uIGUoKXt0LnJlbW92ZUV2ZW50TGlzdGVuZXIobixlLHtwYXNzaXZlOiEwfSksbnVsbCE9PXImJihjbGVhclRpbWVvdXQocikscj1udWxsKX0se3Bhc3NpdmU6ITB9KX19LHtrZXk6Il9hZGRQcmVmZXRjaExpbmsiLHZhbHVlOmZ1bmN0aW9uKGkpe3JldHVybiB0aGlzLnByZWZldGNoZWQuYWRkKGkuaHJlZiksbmV3IFByb21pc2UoZnVuY3Rpb24oZSx0KXt2YXIgbj1kb2N1bWVudC5jcmVhdGVFbGVtZW50KCJsaW5rIik7bi5yZWw9InByZWZldGNoIixuLmhyZWY9aS5ocmVmLG4ub25sb2FkPWUsbi5vbmVycm9yPXQsZG9jdW1lbnQuaGVhZC5hcHBlbmRDaGlsZChuKX0pLmNhdGNoKGZ1bmN0aW9uKCl7fSl9fSx7a2V5OiJfcHJlcGFyZVVybCIsdmFsdWU6ZnVuY3Rpb24oZSl7aWYobnVsbD09PWV8fCJvYmplY3QiIT09KHZvaWQgMD09PWU/InVuZGVmaW5lZCI6cihlKSl8fCExIGluIGV8fC0xPT09WyJodHRwOiIsImh0dHBzOiJdLmluZGV4T2YoZS5wcm90b2NvbCkpcmV0dXJuIG51bGw7dmFyIHQ9ZS5ocmVmLnN1YnN0cmluZygwLHRoaXMuY29uZmlnLnNpdGVVcmwubGVuZ3RoKSxuPXRoaXMuX2dldFBhdGhuYW1lKGUuaHJlZix0KSxpPXtvcmlnaW5hbDplLmhyZWYscHJvdG9jb2w6ZS5wcm90b2NvbCxvcmlnaW46dCxwYXRobmFtZTpuLGhyZWY6dCtufTtyZXR1cm4gdGhpcy5faXNMaW5rT2soaSk/aTpudWxsfX0se2tleToiX2dldFBhdGhuYW1lIix2YWx1ZTpmdW5jdGlvbihlLHQpe3ZhciBuPXQ/ZS5zdWJzdHJpbmcodGhpcy5jb25maWcuc2l0ZVVybC5sZW5ndGgpOmU7cmV0dXJuIG4uc3RhcnRzV2l0aCgiLyIpfHwobj0iLyIrbiksdGhpcy5fc2hvdWxkQWRkVHJhaWxpbmdTbGFzaChuKT9uKyIvIjpufX0se2tleToiX3Nob3VsZEFkZFRyYWlsaW5nU2xhc2giLHZhbHVlOmZ1bmN0aW9uKGUpe3JldHVybiB0aGlzLmNvbmZpZy51c2VzVHJhaWxpbmdTbGFzaCYmIWUuZW5kc1dpdGgoIi8iKSYmIXRoaXMucmVnZXguZmlsZUV4dC50ZXN0KGUpfX0se2tleToiX2lzTGlua09rIix2YWx1ZTpmdW5jdGlvbihlKXtyZXR1cm4gbnVsbCE9PWUmJiJvYmplY3QiPT09KHZvaWQgMD09PWU/InVuZGVmaW5lZCI6cihlKSkmJighdGhpcy5wcmVmZXRjaGVkLmhhcyhlLmhyZWYpJiZlLm9yaWdpbj09PXRoaXMuY29uZmlnLnNpdGVVcmwmJi0xPT09ZS5ocmVmLmluZGV4T2YoIj8iKSYmLTE9PT1lLmhyZWYuaW5kZXhPZigiIyIpJiYhdGhpcy5yZWdleC5leGNsdWRlVXJpcy50ZXN0KGUuaHJlZikmJiF0aGlzLnJlZ2V4LmltYWdlcy50ZXN0KGUuaHJlZikpfX1dLFt7a2V5OiJydW4iLHZhbHVlOmZ1bmN0aW9uKCl7InVuZGVmaW5lZCIhPXR5cGVvZiBSb2NrZXRQcmVsb2FkTGlua3NDb25maWcmJm5ldyBuKG5ldyBSb2NrZXRCcm93c2VyQ29tcGF0aWJpbGl0eUNoZWNrZXIoe2NhcHR1cmU6ITAscGFzc2l2ZTohMH0pLFJvY2tldFByZWxvYWRMaW5rc0NvbmZpZykuaW5pdCgpfX1dKSxufSgpO3QucnVuKCk7Cn0oKSk7Cg==" data-rocket-status="executed">
+(function() {
+"use strict";var r="function"==typeof Symbol&&"symbol"==typeof Symbol.iterator?function(e){return typeof e}:function(e){return e&&"function"==typeof Symbol&&e.constructor===Symbol&&e!==Symbol.prototype?"symbol":typeof e},e=function(){function i(e,t){for(var n=0;n<t.length;n++){var i=t[n];i.enumerable=i.enumerable||!1,i.configurable=!0,"value"in i&&(i.writable=!0),Object.defineProperty(e,i.key,i)}}return function(e,t,n){return t&&i(e.prototype,t),n&&i(e,n),e}}();function i(e,t){if(!(e instanceof t))throw new TypeError("Cannot call a class as a function")}var t=function(){function n(e,t){i(this,n),this.browser=e,this.config=t,this.options=this.browser.options,this.prefetched=new Set,this.eventTime=null,this.threshold=1111,this.numOnHover=0}return e(n,[{key:"init",value:function(){!this.browser.supportsLinkPrefetch()||this.browser.isDataSaverModeOn()||this.browser.isSlowConnection()||(this.regex={excludeUris:RegExp(this.config.excludeUris,"i"),images:RegExp(".("+this.config.imageExt+")$","i"),fileExt:RegExp(".("+this.config.fileExt+")$","i")},this._initListeners(this))}},{key:"_initListeners",value:function(e){-1<this.config.onHoverDelay&&document.addEventListener("mouseover",e.listener.bind(e),e.listenerOptions),document.addEventListener("mousedown",e.listener.bind(e),e.listenerOptions),document.addEventListener("touchstart",e.listener.bind(e),e.listenerOptions)}},{key:"listener",value:function(e){var t=e.target.closest("a"),n=this._prepareUrl(t);if(null!==n)switch(e.type){case"mousedown":case"touchstart":this._addPrefetchLink(n);break;case"mouseover":this._earlyPrefetch(t,n,"mouseout")}}},{key:"_earlyPrefetch",value:function(t,e,n){var i=this,r=setTimeout(function(){if(r=null,0===i.numOnHover)setTimeout(function(){return i.numOnHover=0},1e3);else if(i.numOnHover>i.config.rateThrottle)return;i.numOnHover++,i._addPrefetchLink(e)},this.config.onHoverDelay);t.addEventListener(n,function e(){t.removeEventListener(n,e,{passive:!0}),null!==r&&(clearTimeout(r),r=null)},{passive:!0})}},{key:"_addPrefetchLink",value:function(i){return this.prefetched.add(i.href),new Promise(function(e,t){var n=document.createElement("link");n.rel="prefetch",n.href=i.href,n.onload=e,n.onerror=t,document.head.appendChild(n)}).catch(function(){})}},{key:"_prepareUrl",value:function(e){if(null===e||"object"!==(void 0===e?"undefined":r(e))||!1 in e||-1===["http:","https:"].indexOf(e.protocol))return null;var t=e.href.substring(0,this.config.siteUrl.length),n=this._getPathname(e.href,t),i={original:e.href,protocol:e.protocol,origin:t,pathname:n,href:t+n};return this._isLinkOk(i)?i:null}},{key:"_getPathname",value:function(e,t){var n=t?e.substring(this.config.siteUrl.length):e;return n.startsWith("/")||(n="/"+n),this._shouldAddTrailingSlash(n)?n+"/":n}},{key:"_shouldAddTrailingSlash",value:function(e){return this.config.usesTrailingSlash&&!e.endsWith("/")&&!this.regex.fileExt.test(e)}},{key:"_isLinkOk",value:function(e){return null!==e&&"object"===(void 0===e?"undefined":r(e))&&(!this.prefetched.has(e.href)&&e.origin===this.config.siteUrl&&-1===e.href.indexOf("?")&&-1===e.href.indexOf("#")&&!this.regex.excludeUris.test(e.href)&&!this.regex.images.test(e.href))}}],[{key:"run",value:function(){"undefined"!=typeof RocketPreloadLinksConfig&&new n(new RocketBrowserCompatibilityChecker({capture:!0,passive:!0}),RocketPreloadLinksConfig).init()}}]),n}();t.run();
+}());
+</script>
+<script id="smartmenus-js" defer="" src="./OrbitalSepahanBattery_files/jquery.smartmenus.min.js.download" data-rocket-status="executed"></script>
+<script id="bdt-uikit-js-extra">
+var element_pack_ajax_login_config = {"ajaxurl":"https:\/\/www.sepahanbattery.com\/wp-admin\/admin-ajax.php","language":"fa","loadingmessage":"\u0627\u0631\u0633\u0627\u0644 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u06a9\u0627\u0631\u0628\u0631\u060c \u0644\u0637\u0641\u0627\u064b \u0635\u0628\u0631 \u06a9\u0646\u06cc\u062f ...","unknownerror":"\u062e\u0637\u0627\u06cc \u0646\u0627\u0634\u0646\u0627\u062e\u062a\u0647 \u060c \u0645\u0637\u0645\u0626\u0646 \u0634\u0648\u06cc\u062f \u06a9\u0647 \u062f\u0633\u062a\u0631\u0633\u06cc \u0635\u062d\u06cc\u062d \u0627\u0633\u062a!"};
+var ElementPackConfig = {"ajaxurl":"https:\/\/www.sepahanbattery.com\/wp-admin\/admin-ajax.php","nonce":"76654de86f","data_table":{"language":{"lengthMenu":"\u0646\u0645\u0627\u06cc\u0634 _MENU_ \u0648\u0631\u0648\u062f\u06cc","info":"\u0646\u0645\u0627\u06cc\u0634 _START_ \u0628\u0647 _END_ \u0627\u0632 _TOTAL_ \u0648\u0631\u0648\u062f\u06cc","search":"\u062c\u0633\u062a\u062c\u0648:","sZeroRecords":"\u0647\u06cc\u0686 \u0631\u06a9\u0648\u062f \u0645\u0637\u0627\u0628\u0642\u06cc \u06cc\u0627\u0641\u062a \u0646\u0634\u062f","paginate":{"previous":"\u0642\u0628\u0644\u06cc","next":"\u0628\u0639\u062f\u06cc"}}},"contact_form":{"sending_msg":"\u0627\u0631\u0633\u0627\u0644 \u0627\u0637\u0644\u0627\u0639\u0627\u062a \u06a9\u0627\u0631\u0628\u0631\u060c \u0644\u0637\u0641\u0627\u064b \u0635\u0628\u0631 \u06a9\u0646\u06cc\u062f ...","captcha_nd":"captcha \u0646\u0627\u0645\u0631\u0626\u06cc \u062a\u0639\u0631\u06cc\u0641 \u0646\u0634\u062f\u0647 \u0627\u0633\u062a!","captcha_nr":"\u0646\u0645\u06cc \u062a\u0648\u0627\u0646 \u067e\u0627\u0633\u062e\u06cc \u0627\u0632  captcha \u0646\u0627\u0645\u0631\u0626\u06cc \u062f\u0631\u06cc\u0627\u0641\u062a \u06a9\u0631\u062f"},"mailchimp":{"subscribing":"\u062f\u0631 \u062d\u0627\u0644 \u0627\u0646\u062c\u0627\u0645 \u0639\u0636\u0648\u06cc\u062a \u0634\u0645\u0627..."},"search":{"more_result":"\u0646\u062a\u0627\u06cc\u062c \u0628\u06cc\u0634\u062a\u0631","search_result":"\u0646\u062a\u06cc\u062c\u0647 \u062c\u0633\u062a\u062c\u0648","not_found":"\u06cc\u0627\u0641\u062a \u0646\u0634\u062f"},"elements_data":{"sections":[],"columns":[],"widgets":[]}};
+</script>
+<script id="bdt-uikit-js" defer="" src="./OrbitalSepahanBattery_files/bdt-uikit.min.js.download" data-rocket-status="executed"></script>
+<script id="elementor-webpack-runtime-js" defer="" src="./OrbitalSepahanBattery_files/webpack.runtime.min.js.download" data-rocket-status="executed"></script>
+<script id="elementor-frontend-modules-js" defer="" src="./OrbitalSepahanBattery_files/frontend-modules.min.js.download" data-rocket-status="executed"></script>
+<script id="elementor-waypoints-js" defer="" src="./OrbitalSepahanBattery_files/waypoints.min.js.download" data-rocket-status="executed"></script>
+<script id="jquery-ui-core-js" defer="" src="./OrbitalSepahanBattery_files/core.min.js.download" data-rocket-status="executed"></script>
+<script id="elementor-frontend-js-before" src="data:text/javascript;base64,CnZhciBlbGVtZW50b3JGcm9udGVuZENvbmZpZyA9IHsiZW52aXJvbm1lbnRNb2RlIjp7ImVkaXQiOmZhbHNlLCJ3cFByZXZpZXciOmZhbHNlLCJpc1NjcmlwdERlYnVnIjpmYWxzZX0sImkxOG4iOnsic2hhcmVPbkZhY2Vib29rIjoiXHUwNjI3XHUwNjM0XHUwNjJhXHUwNjMxXHUwNjI3XHUwNmE5IFx1MDZhZlx1MDYzMFx1MDYyN1x1MDYzMVx1MDZjYyBcdTA2MmZcdTA2MzEgRmFjZWJvb2siLCJzaGFyZU9uVHdpdHRlciI6Ilx1MDYyN1x1MDYzNFx1MDYyYVx1MDYzMVx1MDYyN1x1MDZhOSBcdTA2YWZcdTA2MzBcdTA2MjdcdTA2MzFcdTA2Y2MgXHUwNjJmXHUwNjMxIFR3aXR0ZXIiLCJwaW5JdCI6Ilx1MDY3ZVx1MDZjY1x1MDY0NiBcdTA2YTlcdTA2NDZcdTA2Y2NcdTA2MmYiLCJkb3dubG9hZCI6Ilx1MDYyZlx1MDYyN1x1MDY0Nlx1MDY0NFx1MDY0OFx1MDYyZiIsImRvd25sb2FkSW1hZ2UiOiJcdTA2MmZcdTA2MjdcdTA2NDZcdTA2NDRcdTA2NDhcdTA2MmYgXHUwNjJhXHUwNjM1XHUwNjQ4XHUwNmNjXHUwNjMxIiwiZnVsbHNjcmVlbiI6Ilx1MDYyYVx1MDY0NVx1MDYyN1x1MDY0NVx1MjAwY1x1MDYzNVx1MDY0MVx1MDYyZFx1MDY0NyIsInpvb20iOiJcdTA2MjhcdTA2MzJcdTA2MzFcdTA2YWZcdTA2NDZcdTA2NDVcdTA2MjdcdTA2Y2NcdTA2Y2MiLCJzaGFyZSI6Ilx1MDYyN1x1MDYzNFx1MDYyYVx1MDYzMVx1MDYyN1x1MDZhOSBcdTA2YWZcdTA2MzBcdTA2MjdcdTA2MzFcdTA2Y2MiLCJwbGF5VmlkZW8iOiJcdTA2N2VcdTA2MmVcdTA2MzQgXHUwNjQ4XHUwNmNjXHUwNjJmXHUwNmNjXHUwNjQ4IiwicHJldmlvdXMiOiJcdTA2NDJcdTA2MjhcdTA2NDRcdTA2Y2MiLCJuZXh0IjoiXHUwNjI4XHUwNjM5XHUwNjJmXHUwNmNjIiwiY2xvc2UiOiJcdTA2MjhcdTA2MzNcdTA2MmFcdTA2NDYiLCJhMTF5Q2Fyb3VzZWxXcmFwcGVyQXJpYUxhYmVsIjoiXHUwNmE5XHUwNjI3XHUwNjMxXHUwNjQ4XHUwNjMzXHUwNjQ0IHwgXHUwNjdlXHUwNmNjXHUwNjQ1XHUwNjI3XHUwNmNjXHUwNjM0IFx1MDYyN1x1MDY0MVx1MDY0Mlx1MDZjYzogXHUwNjQxXHUwNjQ0XHUwNjM0IFx1MDY4Nlx1MDY3ZSBcdTA2NDggXHUwNjMxXHUwNjI3XHUwNjMzXHUwNjJhIiwiYTExeUNhcm91c2VsUHJldlNsaWRlTWVzc2FnZSI6Ilx1MDYyN1x1MDYzM1x1MDY0NFx1MDYyN1x1MDZjY1x1MDYyZiBcdTA2NDJcdTA2MjhcdTA2NDRcdTA2Y2MiLCJhMTF5Q2Fyb3VzZWxOZXh0U2xpZGVNZXNzYWdlIjoiXHUwNjI3XHUwNjMzXHUwNjQ0XHUwNjI3XHUwNmNjXHUwNjJmIFx1MDYyOFx1MDYzOVx1MDYyZlx1MDZjYyIsImExMXlDYXJvdXNlbEZpcnN0U2xpZGVNZXNzYWdlIjoiXHUwNjI3XHUwNmNjXHUwNjQ2IFx1MDYyN1x1MDY0OFx1MDY0NFx1MDZjY1x1MDY0NiBcdTA2MjdcdTA2MzNcdTA2NDRcdTA2MjdcdTA2Y2NcdTA2MmYgXHUwNjI3XHUwNjMzXHUwNjJhIiwiYTExeUNhcm91c2VsTGFzdFNsaWRlTWVzc2FnZSI6Ilx1MDYyN1x1MDZjY1x1MDY0NiBcdTA2MjJcdTA2MmVcdTA2MzFcdTA2Y2NcdTA2NDYgXHUwNjI3XHUwNjMzXHUwNjQ0XHUwNjI3XHUwNmNjXHUwNjJmIFx1MDYyN1x1MDYzM1x1MDYyYSIsImExMXlDYXJvdXNlbFBhZ2luYXRpb25CdWxsZXRNZXNzYWdlIjoiXHUwNjI4XHUwNjQ3IFx1MDYyN1x1MDYzM1x1MDY0NFx1MDYyN1x1MDZjY1x1MDYyZiBcdTA2MjhcdTA2MzFcdTA2NDhcdTA2Y2NcdTA2MmYifSwiaXNfcnRsIjp0cnVlLCJicmVha3BvaW50cyI6eyJ4cyI6MCwic20iOjQ4MCwibWQiOjc2OCwibGciOjEwMjUsInhsIjoxNDQwLCJ4eGwiOjE2MDB9LCJyZXNwb25zaXZlIjp7ImJyZWFrcG9pbnRzIjp7Im1vYmlsZSI6eyJsYWJlbCI6Ilx1MDY0NVx1MDY0OFx1MDYyOFx1MDYyN1x1MDZjY1x1MDY0NCBcdTA2MzlcdTA2NDVcdTA2NDhcdTA2MmZcdTA2Y2MiLCJ2YWx1ZSI6NzY3LCJkZWZhdWx0X3ZhbHVlIjo3NjcsImRpcmVjdGlvbiI6Im1heCIsImlzX2VuYWJsZWQiOnRydWV9LCJtb2JpbGVfZXh0cmEiOnsibGFiZWwiOiJcdTA2NDVcdTA2NDhcdTA2MjhcdTA2MjdcdTA2Y2NcdTA2NDQgXHUwNjI3XHUwNjQxXHUwNjQyXHUwNmNjIiwidmFsdWUiOjg4MCwiZGVmYXVsdF92YWx1ZSI6ODgwLCJkaXJlY3Rpb24iOiJtYXgiLCJpc19lbmFibGVkIjpmYWxzZX0sInRhYmxldCI6eyJsYWJlbCI6Ilx1MDYyYVx1MDYyOFx1MDY0NFx1MDYyYSBcdTA2MzlcdTA2NDVcdTA2NDhcdTA2MmZcdTA2Y2MiLCJ2YWx1ZSI6MTAyNCwiZGVmYXVsdF92YWx1ZSI6MTAyNCwiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6dHJ1ZX0sInRhYmxldF9leHRyYSI6eyJsYWJlbCI6Ilx1MDYyYVx1MDYyOFx1MDY0NFx1MDYyYSBcdTA2MjdcdTA2NDFcdTA2NDJcdTA2Y2MiLCJ2YWx1ZSI6MTIwMCwiZGVmYXVsdF92YWx1ZSI6MTIwMCwiZGlyZWN0aW9uIjoibWF4IiwiaXNfZW5hYmxlZCI6ZmFsc2V9LCJsYXB0b3AiOnsibGFiZWwiOiJcdTA2NDRcdTA2N2UgXHUwNjJhXHUwNjI3XHUwNjdlIiwidmFsdWUiOjEzNjYsImRlZmF1bHRfdmFsdWUiOjEzNjYsImRpcmVjdGlvbiI6Im1heCIsImlzX2VuYWJsZWQiOmZhbHNlfSwid2lkZXNjcmVlbiI6eyJsYWJlbCI6Ilx1MDYzNVx1MDY0MVx1MDYyZFx1MDY0NyBcdTA2MzlcdTA2MzFcdTA2Y2NcdTA2MzYiLCJ2YWx1ZSI6MjQwMCwiZGVmYXVsdF92YWx1ZSI6MjQwMCwiZGlyZWN0aW9uIjoibWluIiwiaXNfZW5hYmxlZCI6ZmFsc2V9fX0sInZlcnNpb24iOiIzLjE4LjMiLCJpc19zdGF0aWMiOmZhbHNlLCJleHBlcmltZW50YWxGZWF0dXJlcyI6eyJlX2RvbV9vcHRpbWl6YXRpb24iOnRydWUsImVfb3B0aW1pemVkX2Fzc2V0c19sb2FkaW5nIjp0cnVlLCJhZGRpdGlvbmFsX2N1c3RvbV9icmVha3BvaW50cyI6dHJ1ZSwidGhlbWVfYnVpbGRlcl92MiI6dHJ1ZSwiYmxvY2tfZWRpdG9yX2Fzc2V0c19vcHRpbWl6ZSI6dHJ1ZSwibGFuZGluZy1wYWdlcyI6dHJ1ZSwiZV9pbWFnZV9sb2FkaW5nX29wdGltaXphdGlvbiI6dHJ1ZSwiZV9nbG9iYWxfc3R5bGVndWlkZSI6dHJ1ZSwicGFnZS10cmFuc2l0aW9ucyI6dHJ1ZSwibm90ZXMiOnRydWUsImxvb3AiOnRydWUsImZvcm0tc3VibWlzc2lvbnMiOnRydWUsImVfc2Nyb2xsX3NuYXAiOnRydWV9LCJ1cmxzIjp7ImFzc2V0cyI6Imh0dHBzOlwvXC93d3cuc2VwYWhhbmJhdHRlcnkuY29tXC93cC1jb250ZW50XC9wbHVnaW5zXC9lbGVtZW50b3JcL2Fzc2V0c1wvIn0sInN3aXBlckNsYXNzIjoic3dpcGVyLWNvbnRhaW5lciIsInNldHRpbmdzIjp7InBhZ2UiOltdLCJlZGl0b3JQcmVmZXJlbmNlcyI6W119LCJraXQiOnsidmlld3BvcnRfbW9iaWxlIjo3NjcsInZpZXdwb3J0X3RhYmxldCI6MTAyNCwiYWN0aXZlX2JyZWFrcG9pbnRzIjpbInZpZXdwb3J0X21vYmlsZSIsInZpZXdwb3J0X3RhYmxldCJdLCJnbG9iYWxfaW1hZ2VfbGlnaHRib3giOiJ5ZXMiLCJsaWdodGJveF9lbmFibGVfY291bnRlciI6InllcyIsImxpZ2h0Ym94X2VuYWJsZV9mdWxsc2NyZWVuIjoieWVzIiwibGlnaHRib3hfZW5hYmxlX3pvb20iOiJ5ZXMiLCJsaWdodGJveF9lbmFibGVfc2hhcmUiOiJ5ZXMiLCJsaWdodGJveF90aXRsZV9zcmMiOiJ0aXRsZSIsImxpZ2h0Ym94X2Rlc2NyaXB0aW9uX3NyYyI6ImRlc2NyaXB0aW9uIn0sInBvc3QiOnsiaWQiOjY3MDAsInRpdGxlIjoiJUQ4JUE4JUQ4JUE3JUQ4JUFBJUQ4JUIxJURCJThDJTIwJUQ4JUE3JUQ5JTg4JUQ4JUIxJUQ4JUE4JURCJThDJUQ4JUFBJUQ4JUE3JUQ5JTg0JTIwJUQ4JUIzJUQ5JUJFJUQ4JUE3JUQ5JTg3JUQ4JUE3JUQ5JTg2JTIwJUQ4JUE4JUQ4JUE3JUQ4JUFBJUQ4JUIxJURCJThDJUQ4JThDJTIwJUQ5JTg1JUQ5JTg2JUQ4JUE4JUQ4JUI5JTIwJUQ5JTgyJUQ4JUFGJUQ4JUIxJUQ4JUFBJTIwJUQ5JTg4JTIwJUQ4JUE3JUQ5JTg2JUQ4JUIxJURBJTk4JURCJThDJTIwJUQ4JUFFJUQ5JTg4JUQ4JUFGJUQ4JUIxJUQ5JTg4JTIwJUQ4JUI0JUQ5JTg1JUQ4JUE3JTIwJUQ4JUIxJUQ4JUE3JTIwJUQ4JUFBJUQ4JUE3JUQ5JTg1JURCJThDJUQ5JTg2JTIwJUQ5JTg1JURCJThDJTIwJURBJUE5JUQ5JTg2JUQ4JUFGJTIwLSUyMCVEOCVCMyVEOSVCRSVEOCVBNyVEOSU4NyVEOCVBNyVEOSU4NiUyMCVEOCVBOCVEOCVBNyVEOCVBQSVEOCVCMSVEQiU4QyIsImV4Y2VycHQiOiIiLCJmZWF0dXJlZEltYWdlIjpmYWxzZX19Owo=" data-rocket-status="executed">
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false,"isScriptDebug":false},"i18n":{"shareOnFacebook":"\u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0631\u06cc \u062f\u0631 Facebook","shareOnTwitter":"\u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0631\u06cc \u062f\u0631 Twitter","pinIt":"\u067e\u06cc\u0646 \u06a9\u0646\u06cc\u062f","download":"\u062f\u0627\u0646\u0644\u0648\u062f","downloadImage":"\u062f\u0627\u0646\u0644\u0648\u062f \u062a\u0635\u0648\u06cc\u0631","fullscreen":"\u062a\u0645\u0627\u0645\u200c\u0635\u0641\u062d\u0647","zoom":"\u0628\u0632\u0631\u06af\u0646\u0645\u0627\u06cc\u06cc","share":"\u0627\u0634\u062a\u0631\u0627\u06a9 \u06af\u0630\u0627\u0631\u06cc","playVideo":"\u067e\u062e\u0634 \u0648\u06cc\u062f\u06cc\u0648","previous":"\u0642\u0628\u0644\u06cc","next":"\u0628\u0639\u062f\u06cc","close":"\u0628\u0633\u062a\u0646","a11yCarouselWrapperAriaLabel":"\u06a9\u0627\u0631\u0648\u0633\u0644 | \u067e\u06cc\u0645\u0627\u06cc\u0634 \u0627\u0641\u0642\u06cc: \u0641\u0644\u0634 \u0686\u067e \u0648 \u0631\u0627\u0633\u062a","a11yCarouselPrevSlideMessage":"\u0627\u0633\u0644\u0627\u06cc\u062f \u0642\u0628\u0644\u06cc","a11yCarouselNextSlideMessage":"\u0627\u0633\u0644\u0627\u06cc\u062f \u0628\u0639\u062f\u06cc","a11yCarouselFirstSlideMessage":"\u0627\u06cc\u0646 \u0627\u0648\u0644\u06cc\u0646 \u0627\u0633\u0644\u0627\u06cc\u062f \u0627\u0633\u062a","a11yCarouselLastSlideMessage":"\u0627\u06cc\u0646 \u0622\u062e\u0631\u06cc\u0646 \u0627\u0633\u0644\u0627\u06cc\u062f \u0627\u0633\u062a","a11yCarouselPaginationBulletMessage":"\u0628\u0647 \u0627\u0633\u0644\u0627\u06cc\u062f \u0628\u0631\u0648\u06cc\u062f"},"is_rtl":true,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"responsive":{"breakpoints":{"mobile":{"label":"\u0645\u0648\u0628\u0627\u06cc\u0644 \u0639\u0645\u0648\u062f\u06cc","value":767,"default_value":767,"direction":"max","is_enabled":true},"mobile_extra":{"label":"\u0645\u0648\u0628\u0627\u06cc\u0644 \u0627\u0641\u0642\u06cc","value":880,"default_value":880,"direction":"max","is_enabled":false},"tablet":{"label":"\u062a\u0628\u0644\u062a \u0639\u0645\u0648\u062f\u06cc","value":1024,"default_value":1024,"direction":"max","is_enabled":true},"tablet_extra":{"label":"\u062a\u0628\u0644\u062a \u0627\u0641\u0642\u06cc","value":1200,"default_value":1200,"direction":"max","is_enabled":false},"laptop":{"label":"\u0644\u067e \u062a\u0627\u067e","value":1366,"default_value":1366,"direction":"max","is_enabled":false},"widescreen":{"label":"\u0635\u0641\u062d\u0647 \u0639\u0631\u06cc\u0636","value":2400,"default_value":2400,"direction":"min","is_enabled":false}}},"version":"3.18.3","is_static":false,"experimentalFeatures":{"e_dom_optimization":true,"e_optimized_assets_loading":true,"additional_custom_breakpoints":true,"theme_builder_v2":true,"block_editor_assets_optimize":true,"landing-pages":true,"e_image_loading_optimization":true,"e_global_styleguide":true,"page-transitions":true,"notes":true,"loop":true,"form-submissions":true,"e_scroll_snap":true},"urls":{"assets":"https:\/\/www.sepahanbattery.com\/wp-content\/plugins\/elementor\/assets\/"},"swiperClass":"swiper-container","settings":{"page":[],"editorPreferences":[]},"kit":{"viewport_mobile":767,"viewport_tablet":1024,"active_breakpoints":["viewport_mobile","viewport_tablet"],"global_image_lightbox":"yes","lightbox_enable_counter":"yes","lightbox_enable_fullscreen":"yes","lightbox_enable_zoom":"yes","lightbox_enable_share":"yes","lightbox_title_src":"title","lightbox_description_src":"description"},"post":{"id":6700,"title":"%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%20%D8%A7%D9%88%D8%B1%D8%A8%DB%8C%D8%AA%D8%A7%D9%84%20%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86%20%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C%D8%8C%20%D9%85%D9%86%D8%A8%D8%B9%20%D9%82%D8%AF%D8%B1%D8%AA%20%D9%88%20%D8%A7%D9%86%D8%B1%DA%98%DB%8C%20%D8%AE%D9%88%D8%AF%D8%B1%D9%88%20%D8%B4%D9%85%D8%A7%20%D8%B1%D8%A7%20%D8%AA%D8%A7%D9%85%DB%8C%D9%86%20%D9%85%DB%8C%20%DA%A9%D9%86%D8%AF%20-%20%D8%B3%D9%BE%D8%A7%D9%87%D8%A7%D9%86%20%D8%A8%D8%A7%D8%AA%D8%B1%DB%8C","excerpt":"","featuredImage":false}};
+</script>
+<script id="elementor-frontend-js" defer="" src="./OrbitalSepahanBattery_files/frontend.min.js.download" data-rocket-status="executed"></script>
+<script id="ep-search-js" defer="" src="./OrbitalSepahanBattery_files/ep-search.min.js.download" data-rocket-status="executed"></script>
+<script id="imagesloaded-js" defer="" src="./OrbitalSepahanBattery_files/imagesloaded.min.js.download" data-rocket-status="executed"></script>
+<script id="ep-advanced-heading-js" defer="" src="./OrbitalSepahanBattery_files/ep-advanced-heading.min.js.download" data-rocket-status="executed"></script>
+<script id="fancybox-js" defer="" src="./OrbitalSepahanBattery_files/jquery.fancybox.min.js.download" data-rocket-status="executed"></script>
+<script data-minify="1" id="visual-portfolio-popup-gallery-js" defer="" src="./OrbitalSepahanBattery_files/popup-gallery.js.download" data-rocket-status="executed"></script>
+<script data-minify="1" id="visual-portfolio-plugin-fancybox-js" defer="" src="./OrbitalSepahanBattery_files/plugin-fancybox.js.download" data-rocket-status="executed"></script>
+<script id="element-pack-helper-js" defer="" src="./OrbitalSepahanBattery_files/helper.min.js.download" data-rocket-status="executed"></script>
+<script id="elementor-pro-webpack-runtime-js" defer="" src="./OrbitalSepahanBattery_files/webpack-pro.runtime.min.js.download" data-rocket-status="executed"></script>
+<script id="wp-polyfill-inert-js" defer="" src="./OrbitalSepahanBattery_files/wp-polyfill-inert.min.js.download" data-rocket-status="executed"></script>
+<script id="regenerator-runtime-js" defer="" src="./OrbitalSepahanBattery_files/regenerator-runtime.min.js.download" data-rocket-status="executed"></script>
+<script id="wp-polyfill-js" src="./OrbitalSepahanBattery_files/wp-polyfill.min.js.download" data-rocket-status="executed"></script>
+<script id="wp-hooks-js" src="./OrbitalSepahanBattery_files/hooks.min.js.download" data-rocket-status="executed"></script>
+<script id="wp-i18n-js" src="./OrbitalSepahanBattery_files/i18n.min.js.download" data-rocket-status="executed"></script>
+<script id="wp-i18n-js-after" src="data:text/javascript;base64,CndwLmkxOG4uc2V0TG9jYWxlRGF0YSggeyAndGV4dCBkaXJlY3Rpb25cdTAwMDRsdHInOiBbICdydGwnIF0gfSApOwo=" data-rocket-status="executed">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'rtl' ] } );
+</script>
+<script id="elementor-pro-frontend-js-before" src="data:text/javascript;base64,CnZhciBFbGVtZW50b3JQcm9Gcm9udGVuZENvbmZpZyA9IHsiYWpheHVybCI6Imh0dHBzOlwvXC93d3cuc2VwYWhhbmJhdHRlcnkuY29tXC93cC1hZG1pblwvYWRtaW4tYWpheC5waHAiLCJub25jZSI6IjFlMDM0ZjViYzciLCJ1cmxzIjp7ImFzc2V0cyI6Imh0dHBzOlwvXC93d3cuc2VwYWhhbmJhdHRlcnkuY29tXC93cC1jb250ZW50XC9wbHVnaW5zXC9lbGVtZW50b3ItcHJvXC9hc3NldHNcLyIsInJlc3QiOiJodHRwczpcL1wvd3d3LnNlcGFoYW5iYXR0ZXJ5LmNvbVwvd3AtanNvblwvIn0sInNoYXJlQnV0dG9uc05ldHdvcmtzIjp7ImZhY2Vib29rIjp7InRpdGxlIjoiRmFjZWJvb2siLCJoYXNfY291bnRlciI6dHJ1ZX0sInR3aXR0ZXIiOnsidGl0bGUiOiJUd2l0dGVyIn0sImxpbmtlZGluIjp7InRpdGxlIjoiTGlua2VkSW4iLCJoYXNfY291bnRlciI6dHJ1ZX0sInBpbnRlcmVzdCI6eyJ0aXRsZSI6IlBpbnRlcmVzdCIsImhhc19jb3VudGVyIjp0cnVlfSwicmVkZGl0Ijp7InRpdGxlIjoiUmVkZGl0IiwiaGFzX2NvdW50ZXIiOnRydWV9LCJ2ayI6eyJ0aXRsZSI6IlZLIiwiaGFzX2NvdW50ZXIiOnRydWV9LCJvZG5va2xhc3NuaWtpIjp7InRpdGxlIjoiT0siLCJoYXNfY291bnRlciI6dHJ1ZX0sInR1bWJsciI6eyJ0aXRsZSI6IlR1bWJsciJ9LCJkaWdnIjp7InRpdGxlIjoiRGlnZyJ9LCJza3lwZSI6eyJ0aXRsZSI6IlNreXBlIn0sInN0dW1ibGV1cG9uIjp7InRpdGxlIjoiU3R1bWJsZVVwb24iLCJoYXNfY291bnRlciI6dHJ1ZX0sIm1peCI6eyJ0aXRsZSI6Ik1peCJ9LCJ0ZWxlZ3JhbSI6eyJ0aXRsZSI6IlRlbGVncmFtIn0sInBvY2tldCI6eyJ0aXRsZSI6IlBvY2tldCIsImhhc19jb3VudGVyIjp0cnVlfSwieGluZyI6eyJ0aXRsZSI6IlhJTkciLCJoYXNfY291bnRlciI6dHJ1ZX0sIndoYXRzYXBwIjp7InRpdGxlIjoiV2hhdHNBcHAifSwiZW1haWwiOnsidGl0bGUiOiJFbWFpbCJ9LCJwcmludCI6eyJ0aXRsZSI6IlByaW50In19LCJmYWNlYm9va19zZGsiOnsibGFuZyI6ImZhX0lSIiwiYXBwX2lkIjoiIn0sImxvdHRpZSI6eyJkZWZhdWx0QW5pbWF0aW9uVXJsIjoiaHR0cHM6XC9cL3d3dy5zZXBhaGFuYmF0dGVyeS5jb21cL3dwLWNvbnRlbnRcL3BsdWdpbnNcL2VsZW1lbnRvci1wcm9cL21vZHVsZXNcL2xvdHRpZVwvYXNzZXRzXC9hbmltYXRpb25zXC9kZWZhdWx0Lmpzb24ifX07Cg==" data-rocket-status="executed">
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/www.sepahanbattery.com\/wp-admin\/admin-ajax.php","nonce":"1e034f5bc7","urls":{"assets":"https:\/\/www.sepahanbattery.com\/wp-content\/plugins\/elementor-pro\/assets\/","rest":"https:\/\/www.sepahanbattery.com\/wp-json\/"},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"fa_IR","app_id":""},"lottie":{"defaultAnimationUrl":"https:\/\/www.sepahanbattery.com\/wp-content\/plugins\/elementor-pro\/modules\/lottie\/assets\/animations\/default.json"}};
+</script>
+<script id="elementor-pro-frontend-js" defer="" src="./OrbitalSepahanBattery_files/frontend.min(1).js.download" data-rocket-status="executed"></script>
+<script id="pro-elements-handlers-js" defer="" src="./OrbitalSepahanBattery_files/elements-handlers.min.js.download" data-rocket-status="executed"></script>
+<script src="data:text/javascript;base64,ZmxhdHBpY2tyLnNldERlZmF1bHRzKHtkYXRlRm9ybWF0OidZLW0tZCcsIHRpbWVfMjRocjpmYWxzZX0pOyA=" data-rocket-status="executed">flatpickr.setDefaults({dateFormat:'Y-m-d', time_24hr:false}); </script><script>window.lazyLoadOptions=[{elements_selector:"img[data-lazy-src],.rocket-lazyload,iframe[data-lazy-src]",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,callback_loaded:function(element){if(element.tagName==="IFRAME"&&element.dataset.rocketLazyload=="fitvidscompatible"){if(element.classList.contains("lazyloaded")){if(typeof window.jQuery!="undefined"){if(jQuery.fn.fitVids){jQuery(element).parent().fitVids()}}}}}},{elements_selector:".rocket-lazyload",data_src:"lazy-src",data_srcset:"lazy-srcset",data_sizes:"lazy-sizes",class_loading:"lazyloading",class_loaded:"lazyloaded",threshold:300,}];window.addEventListener('LazyLoad::Initialized',function(e){var lazyLoadInstance=e.detail.instance;if(window.MutationObserver){var observer=new MutationObserver(function(mutations){var image_count=0;var iframe_count=0;var rocketlazy_count=0;mutations.forEach(function(mutation){for(var i=0;i<mutation.addedNodes.length;i++){if(typeof mutation.addedNodes[i].getElementsByTagName!=='function'){continue}
+if(typeof mutation.addedNodes[i].getElementsByClassName!=='function'){continue}
+images=mutation.addedNodes[i].getElementsByTagName('img');is_image=mutation.addedNodes[i].tagName=="IMG";iframes=mutation.addedNodes[i].getElementsByTagName('iframe');is_iframe=mutation.addedNodes[i].tagName=="IFRAME";rocket_lazy=mutation.addedNodes[i].getElementsByClassName('rocket-lazyload');image_count+=images.length;iframe_count+=iframes.length;rocketlazy_count+=rocket_lazy.length;if(is_image){image_count+=1}
+if(is_iframe){iframe_count+=1}}});if(image_count>0||iframe_count>0||rocketlazy_count>0){lazyLoadInstance.update()}});var b=document.getElementsByTagName("body")[0];var config={childList:!0,subtree:!0};observer.observe(b,config)}},!1)</script><script data-no-minify="1" async="" src="./OrbitalSepahanBattery_files/lazyload.min.js.download"></script>
+<script>class RocketElementorAnimation{constructor(){this.deviceMode=document.createElement("span"),this.deviceMode.id="elementor-device-mode-wpr",this.deviceMode.setAttribute("class","elementor-screen-only"),document.body.appendChild(this.deviceMode)}_detectAnimations(){let t=getComputedStyle(this.deviceMode,":after").content.replace(/"/g,"");this.animationSettingKeys=this._listAnimationSettingsKeys(t),document.querySelectorAll(".elementor-invisible[data-settings]").forEach(t=>{const e=t.getBoundingClientRect();if(e.bottom>=0&&e.top<=window.innerHeight)try{this._animateElement(t)}catch(t){}})}_animateElement(t){const e=JSON.parse(t.dataset.settings),i=e._animation_delay||e.animation_delay||0,n=e[this.animationSettingKeys.find(t=>e[t])];if("none"===n)return void t.classList.remove("elementor-invisible");t.classList.remove(n),this.currentAnimation&&t.classList.remove(this.currentAnimation),this.currentAnimation=n;let s=setTimeout(()=>{t.classList.remove("elementor-invisible"),t.classList.add("animated",n),this._removeAnimationSettings(t,e)},i);window.addEventListener("rocket-startLoading",function(){clearTimeout(s)})}_listAnimationSettingsKeys(t="mobile"){const e=[""];switch(t){case"mobile":e.unshift("_mobile");case"tablet":e.unshift("_tablet");case"desktop":e.unshift("_desktop")}const i=[];return["animation","_animation"].forEach(t=>{e.forEach(e=>{i.push(t+e)})}),i}_removeAnimationSettings(t,e){this._listAnimationSettingsKeys().forEach(t=>delete e[t]),t.dataset.settings=JSON.stringify(e)}static run(){const t=new RocketElementorAnimation;requestAnimationFrame(t._detectAnimations.bind(t))}}document.addEventListener("DOMContentLoaded",RocketElementorAnimation.run);</script>
+
+
+<span id="elementor-device-mode-wpr" class="elementor-screen-only"></span><span id="elementor-device-mode" class="elementor-screen-only"></span><svg style="display: none;" class="e-font-icon-svg-symbols"></svg><script src="./OrbitalSepahanBattery_files/swiper.min.js.download"></script></body></html>
